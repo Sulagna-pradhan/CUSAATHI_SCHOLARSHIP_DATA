@@ -1,342 +1,624 @@
 [
-  {
-    "id": 1,
-    "slug": "swami-vivekananda-merit-cum-means-scholarship",
-    "name": "Swami Vivekananda Merit-cum-Means Scholarship",
-    "shortName": "SVMCM",
-    "provider": "Government of West Bengal",
-    "type": "government",
-    "description": "A premier state government scholarship providing financial assistance to meritorious students from economically weaker sections pursuing UG, PG, or professional courses in West Bengal.",
-    "officialUrl": "https://svmcm.wbhed.gov.in/",
-    "lastVerified": "2026-08-10",
-    "financial": {
-      "text": "₹1,000 - ₹5,000 / month",
-      "maxValue": 60000,
-      "frequency": "monthly",
-      "tuitionCoverage": false
+    {
+        "id": 1,
+        "slug": "swami-vivekananda-merit-cum-means-scholarship",
+        "name": "Swami Vivekananda Merit-cum-Means Scholarship",
+        "shortName": "SVMCM",
+        "provider": "Government of West Bengal",
+        "type": "government",
+        "description": "A premier state government scholarship providing financial assistance to meritorious students from economically weaker sections pursuing UG, PG, or professional courses in West Bengal.",
+        "officialUrl": "https://svmcm.wbhed.gov.in/",
+        "lastVerified": "2026-08-10",
+        "financial": {
+            "text": "₹1,000 - ₹5,000 / month",
+            "maxValue": 60000,
+            "frequency": "monthly",
+            "tuitionCoverage": false
+        },
+        "dates": {
+            "periodText": "September - December",
+            "startDate": "2026-09-01",
+            "deadlineDate": "2026-12-31",
+            "isTentative": false
+        },
+        "contact": {
+            "helpline": "1800-102-8014",
+            "email": "helpdesk.svmcm-wb@gov.in",
+            "faqUrl": "https://svmcm.wbhed.gov.in/page/faq.php"
+        },
+        "eligibility": {
+            "minMarks": 60,
+            "maxIncome": 250000,
+            "educationLevel": [
+                "ug",
+                "pg"
+            ],
+            "streams": [
+                "Science",
+                "Arts",
+                "Commerce",
+                "Professional"
+            ],
+            "course": [
+                "B.Sc",
+                "B.A",
+                "B.Com",
+                "M.Sc",
+                "M.A",
+                "M.Com",
+                "B.Tech",
+                "M.Tech",
+                "PhD"
+            ],
+            "gender": "all",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "West Bengal",
+            "applicationMode": "online"
+        },
+        "documents": [
+            "Mark sheet of the last qualifying examination",
+            "Income Certificate issued by Joint BDO or above",
+            "Domicile Certificate (Aadhaar Card, Voter Card, or residential certificate)",
+            "First page of Bank Passbook showing Account No. and IFSC Code",
+            "Admission Receipt of the current academic session"
+        ],
+        "applicationProcess": [
+            "Access the official SVMCM portal: https://svmcm.wbhed.gov.in/",
+            "Register as a new user by selecting the appropriate directorate (e.g., DPI, DTE).",
+            "Login with the generated credentials and complete the application profile.",
+            "Upload scanned copies of all required documents in PDF format.",
+            "Review the information, submit the online application, and print the confirmation page."
+        ],
+        "importantNotes": [
+            "The income certificate must be from an officer not below the rank of Joint BDO.",
+            "Double application for multiple government scholarships will lead to rejection of both."
+        ]
     },
-    "dates": {
-      "periodText": "September - December",
-      "startDate": "2026-09-01",
-      "deadlineDate": "2026-12-31",
-      "isTentative": false
+    {
+        "id": 2,
+        "slug": "oasis-post-matric-scholarship-sc-st-obc",
+        "name": "Oasis Post-Matric Scholarship",
+        "shortName": "Oasis",
+        "provider": "Backward Classes Welfare Department, West Bengal",
+        "type": "government",
+        "description": "Financial support for SC, ST, and OBC category students pursuing post-matric courses to enable them to complete their higher education.",
+        "officialUrl": "https://oasis.gov.in/",
+        "lastVerified": "2026-08-05",
+        "financial": {
+            "text": "₹800 - ₹1,200 / month",
+            "maxValue": 14400,
+            "frequency": "monthly",
+            "tuitionCoverage": false
+        },
+        "dates": {
+            "periodText": "August - November",
+            "startDate": "2026-08-15",
+            "deadlineDate": "2026-11-30",
+            "isTentative": true
+        },
+        "contact": {
+            "helpline": "033-2214-5047",
+            "email": "bcwd.wb@gmail.com",
+            "faqUrl": "https://oasis.gov.in/"
+        },
+        "eligibility": {
+            "minMarks": 50,
+            "maxIncome": 200000,
+            "educationLevel": [
+                "ug",
+                "pg"
+            ],
+            "streams": [
+                "Science",
+                "Arts",
+                "Commerce"
+            ],
+            "course": [
+                "B.Sc",
+                "B.A",
+                "B.Com",
+                "M.Sc",
+                "M.A",
+                "M.Com",
+                "B.Ed",
+                "B.P.Ed"
+            ],
+            "gender": "all",
+            "category": [
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "West Bengal",
+            "applicationMode": "hybrid"
+        },
+        "documents": [
+            "Caste Certificate issued by a competent authority",
+            "Income Certificate from a gazetted officer",
+            "Mark sheet of the last qualifying examination",
+            "Residential proof (Aadhaar or Voter card)",
+            "Bank Account details copy",
+            "Fees book / Admission receipt"
+        ],
+        "applicationProcess": [
+            "Open the Oasis portal: https://oasis.gov.in/",
+            "Click on 'Student Registration' and choose your district.",
+            "Verify your Caste Certificate detail online.",
+            "Fill out the application form, save draft, and click final submit.",
+            "Submit the printed physical form copy along with documents to your respective college office."
+        ],
+        "importantNotes": [
+            "The application must be verified and forwarded by the college administrative cell.",
+            "Ensure your bank account is linked with your Aadhaar number (Aadhaar Seeding)."
+        ]
     },
-    "contact": {
-      "helpline": "1800-102-8014",
-      "email": "helpdesk.svmcm-wb@gov.in",
-      "faqUrl": "https://svmcm.wbhed.gov.in/page/faq.php"
+    {
+        "id": 3,
+        "slug": "aikyashree-minority-scholarship",
+        "name": "Aikyashree Minority Scholarship",
+        "shortName": "Aikyashree",
+        "provider": "West Bengal Minorities Development and Finance Corporation (WBMDFC)",
+        "type": "government",
+        "description": "A tailored scholarship program for students belonging to minority communities (Muslim, Christian, Sikh, Buddhist, Parsi, Jain) in West Bengal.",
+        "officialUrl": "https://wbmdfcscholarship.org/",
+        "lastVerified": "2026-08-11",
+        "financial": {
+            "text": "₹1,100 - ₹8,000 / year",
+            "maxValue": 8000,
+            "frequency": "yearly",
+            "tuitionCoverage": false
+        },
+        "dates": {
+            "periodText": "August - December",
+            "startDate": "2026-08-01",
+            "deadlineDate": "2026-12-15",
+            "isTentative": false
+        },
+        "contact": {
+            "helpline": "1800-120-2130",
+            "email": "wbmdfc@gmail.com",
+            "faqUrl": "https://wbmdfcscholarship.org/"
+        },
+        "eligibility": {
+            "minMarks": 50,
+            "maxIncome": 200000,
+            "educationLevel": [
+                "ug",
+                "pg"
+            ],
+            "streams": [
+                "Science",
+                "Arts",
+                "Commerce",
+                "Professional"
+            ],
+            "course": [
+                "B.Sc",
+                "B.A",
+                "B.Com",
+                "M.Sc",
+                "M.A",
+                "M.Com",
+                "B.Ed",
+                "LL.B",
+                "LL.M"
+            ],
+            "gender": "all",
+            "category": [
+                "general"
+            ],
+            "domicile": "West Bengal",
+            "applicationMode": "online"
+        },
+        "documents": [
+            "Self-declaration of Minority Community certificate",
+            "Income Certificate from a competent authority",
+            "Mark sheet of previous qualifying exam",
+            "Bank details proof (passbook/cancelled check)",
+            "Current session fees book"
+        ],
+        "applicationProcess": [
+            "Visit the WBMDFC Aikyashree portal: https://wbmdfcscholarship.org/",
+            "Register details, entering your course details and college identification.",
+            "Fill out the academic details and upload documents.",
+            "Submit online, print the hard copy, and submit it to your nodal officer."
+        ],
+        "importantNotes": [
+            "Only students belonging to notified minority communities of West Bengal can apply.",
+            "Must have secured at least 50% marks in the previous examination."
+        ]
     },
-    "eligibility": {
-      "minMarks": 60,
-      "maxIncome": 250000,
-      "educationLevel": ["ug", "pg"],
-      "streams": ["Science", "Arts", "Commerce", "Professional"],
-      "course": ["B.Sc", "B.A", "B.Com", "M.Sc", "M.A", "M.Com", "B.Tech", "M.Tech", "PhD"],
-      "gender": "all",
-      "category": ["general", "sc", "st", "obc"],
-      "domicile": "West Bengal",
-      "applicationMode": "online"
+    {
+        "id": 4,
+        "slug": "nabanna-chief-ministers-relief-fund-scholarship",
+        "name": "West Bengal Chief Minister's Relief Fund (Nabanna)",
+        "shortName": "Nabanna",
+        "provider": "Government of West Bengal",
+        "type": "government",
+        "description": "Financial assistance from the Chief Minister's Relief Fund for meritorious students who have passed their last board or university exam and reside in West Bengal.",
+        "officialUrl": "http://wbcmo.gov.in/",
+        "lastVerified": "2026-08-01",
+        "financial": {
+            "text": "₹10,000 / year",
+            "maxValue": 10000,
+            "frequency": "yearly",
+            "tuitionCoverage": false
+        },
+        "dates": {
+            "periodText": "All year round",
+            "startDate": "2026-01-01",
+            "deadlineDate": "2026-12-31",
+            "isTentative": false
+        },
+        "contact": {
+            "helpline": "033-2214-1913",
+            "email": "cm@wb.gov.in",
+            "faqUrl": "http://wbcmo.gov.in/"
+        },
+        "eligibility": {
+            "minMarks": 50,
+            "maxIncome": 120000,
+            "educationLevel": [
+                "ug",
+                "pg"
+            ],
+            "streams": [
+                "Science",
+                "Arts",
+                "Commerce"
+            ],
+            "course": [
+                "B.Sc",
+                "B.A",
+                "B.Com",
+                "M.Sc",
+                "M.A",
+                "M.Com",
+                "B.Ed",
+                "LL.B"
+            ],
+            "gender": "all",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "West Bengal",
+            "applicationMode": "offline"
+        },
+        "documents": [
+            "Copy of Recommendation from MLA or MP",
+            "Self-declaration copy of family income countersigned by a Group-A Officer",
+            "Mark sheets of previous exams",
+            "Bank passbook front page front side",
+            "Self-declaration containing mobile number and signatures",
+            "Current semester fee structure/receipt"
+        ],
+        "applicationProcess": [
+            "Obtain the physical application form from Nabanna office or download the official format online.",
+            "Get MLA/MP recommendation signature on the application form.",
+            "Compile physical copies of all required credentials.",
+            "Submit the documents in-person to Nabanna Office (Kolkata) or mail them to the Joint Secretary, Chief Minister's Office."
+        ],
+        "importantNotes": [
+            "Requires active Recommendation from an MLA or MP from West Bengal.",
+            "Usually given as a one-time grant of ₹10,000 per academic year."
+        ]
     },
-    "documents": [
-      "Mark sheet of the last qualifying examination",
-      "Income Certificate issued by Joint BDO or above",
-      "Domicile Certificate (Aadhaar Card, Voter Card, or residential certificate)",
-      "First page of Bank Passbook showing Account No. and IFSC Code",
-      "Admission Receipt of the current academic session"
-    ],
-    "applicationProcess": [
-      "Access the official SVMCM portal: https://svmcm.wbhed.gov.in/",
-      "Register as a new user by selecting the appropriate directorate (e.g., DPI, DTE).",
-      "Login with the generated credentials and complete the application profile.",
-      "Upload scanned copies of all required documents in PDF format.",
-      "Review the information, submit the online application, and print the confirmation page."
-    ],
-    "importantNotes": [
-      "The income certificate must be from an officer not below the rank of Joint BDO.",
-      "Double application for multiple government scholarships will lead to rejection of both."
-    ]
-  },
-  {
-    "id": 2,
-    "slug": "oasis-post-matric-scholarship-sc-st-obc",
-    "name": "Oasis Post-Matric Scholarship",
-    "shortName": "Oasis",
-    "provider": "Backward Classes Welfare Department, West Bengal",
-    "type": "government",
-    "description": "Financial support for SC, ST, and OBC category students pursuing post-matric courses to enable them to complete their higher education.",
-    "officialUrl": "https://oasis.gov.in/",
-    "lastVerified": "2026-08-05",
-    "financial": {
-      "text": "₹800 - ₹1,200 / month",
-      "maxValue": 14400,
-      "frequency": "monthly",
-      "tuitionCoverage": false
+    {
+        "id": 5,
+        "slug": "hdfc-bank-parivartans-ecs-scholarship",
+        "name": "HDFC Bank Parivartan's ECS Scholarship",
+        "shortName": "HDFC ECS",
+        "provider": "HDFC Bank Foundation",
+        "type": "private",
+        "description": "A private scholarship intended for meritorious students belonging to underprivileged sections of society, covering school, college, and professional degrees across India.",
+        "officialUrl": "https://www.buddy4study.com/page/hdfc-banks-parivartan-ecs-scholarship",
+        "lastVerified": "2026-08-08",
+        "financial": {
+            "text": "₹30,000 - ₹75,000 / year",
+            "maxValue": 75000,
+            "frequency": "yearly",
+            "tuitionCoverage": true
+        },
+        "dates": {
+            "periodText": "July - September",
+            "startDate": "2026-07-01",
+            "deadlineDate": "2026-09-30",
+            "isTentative": false
+        },
+        "contact": {
+            "helpline": "011-430-92248",
+            "email": "hdfcbankecss@buddy4study.com",
+            "faqUrl": "https://www.buddy4study.com/"
+        },
+        "eligibility": {
+            "minMarks": 55,
+            "maxIncome": 250000,
+            "educationLevel": [
+                "ug",
+                "pg"
+            ],
+            "streams": [
+                "Science",
+                "Arts",
+                "Commerce",
+                "Professional"
+            ],
+            "course": [
+                "B.Sc",
+                "B.A",
+                "B.Com",
+                "M.Sc",
+                "M.A",
+                "M.Com",
+                "B.Tech",
+                "M.Tech",
+                "MBA"
+            ],
+            "gender": "all",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "India",
+            "applicationMode": "online"
+        },
+        "documents": [
+            "Previous year academic mark sheet",
+            "Income proof (Salary slip, IT return, or local authority certificate)",
+            "Identity proof (Aadhaar Card, PAN Card, Voter Card)",
+            "Admission letter or college receipt",
+            "Recent passport size photograph",
+            "Bank statement of the applicant or parent"
+        ],
+        "applicationProcess": [
+            "Access the Buddy4Study portal or the official HDFC page.",
+            "Navigate to the HDFC Parivartan ECS application link.",
+            "Complete registration, fill out details, and answer short eligibility questions.",
+            "Upload all supporting papers and submit online."
+        ],
+        "importantNotes": [
+            "Priority is given to students facing family crises or sudden financial hardships.",
+            "Open to students across India."
+        ]
     },
-    "dates": {
-      "periodText": "August - November",
-      "startDate": "2026-08-15",
-      "deadlineDate": "2026-11-30",
-      "isTentative": true
+    {
+        "id": 6,
+        "slug": "loreal-india-for-young-women-in-science-scholarship",
+        "name": "L'Oréal India For Young Women in Science Scholarship",
+        "shortName": "L'Oréal Science",
+        "provider": "L'Oréal India",
+        "type": "private",
+        "description": "An exclusive private scholarship aimed at encouraging young women to pursue careers in science, engineering, medicine, and other scientific fields in India.",
+        "officialUrl": "https://www.loreal.com/en/india/",
+        "lastVerified": "2026-08-06",
+        "financial": {
+            "text": "₹2,50,000 / year",
+            "maxValue": 250000,
+            "frequency": "yearly",
+            "tuitionCoverage": true
+        },
+        "dates": {
+            "periodText": "August - October",
+            "startDate": "2026-08-01",
+            "deadlineDate": "2026-10-15",
+            "isTentative": false
+        },
+        "contact": {
+            "helpline": "011-430-92248",
+            "email": "fywis-india@loreal.com",
+            "faqUrl": "https://www.loreal.com/en/india/"
+        },
+        "eligibility": {
+            "minMarks": 85,
+            "maxIncome": 600000,
+            "educationLevel": [
+                "ug"
+            ],
+            "streams": [
+                "Science",
+                "Professional"
+            ],
+            "course": [
+                "B.Sc",
+                "B.Tech",
+                "MBBS",
+                "B.Pharm",
+                "BDS"
+            ],
+            "gender": "female",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "India",
+            "applicationMode": "online"
+        },
+        "documents": [
+            "Aadhaar Card copy",
+            "Class 10 and 12 mark sheets",
+            "Income certificate issued by local self-government or SDM",
+            "Proof of admission in a science-related UG course"
+        ],
+        "applicationProcess": [
+            "Submit application on the official L'Oréal portal or partner channel (Buddy4Study).",
+            "Fill out personal, academic, and financial background details.",
+            "Submit a brief essay detailing career aspirations and interest in science.",
+            "Shortlisted candidates undergo a telephone interview followed by final selection."
+        ],
+        "importantNotes": [
+            "Strictly for female candidates pursuing undergraduate degrees in science streams.",
+            "Must have obtained 85% or above in PCB/PCM in Class 12 board exams."
+        ]
     },
-    "contact": {
-      "helpline": "033-2214-5047",
-      "email": "bcwd.wb@gmail.com",
-      "faqUrl": "https://oasis.gov.in/"
+    {
+        "id": 7,
+        "slug": "kanyashree-prakalpa",
+        "name": "Kanyashree Prakalpa (K1, K2, K3)",
+        "shortName": "Kanyashree",
+        "provider": "Department of Women Development and Social Welfare, Government of West Bengal",
+        "type": "government",
+        "description": "A conditional cash transfer scheme designed to improve the status and well-being of girl children in West Bengal by encouraging education, delaying early marriage, and providing financial aid through three tiers (K1 annual stipend, K2 one-time grant, and K3 postgraduate aid).",
+        "officialUrl": "https://wbkanyashree.gov.in/",
+        "lastVerified": "2026-08-14",
+        "financial": {
+            "text": "₹1,000 / year (K1), ₹25,000 one-time (K2), ₹2,000 - ₹2,500 / month (K3)",
+            "maxValue": 30000,
+            "frequency": "varies",
+            "tuitionCoverage": false
+        },
+        "dates": {
+            "periodText": "Throughout the Academic Session / Rolling Applications",
+            "startDate": "2026-08-01",
+            "deadlineDate": "2026-12-31",
+            "isTentative": true
+        },
+        "contact": {
+            "helpline": "1800-102-8014",
+            "email": "support.kanyashree@wb.gov.in",
+            "faqUrl": "https://wbkanyashree.gov.in/kp_faq.php"
+        },
+        "eligibility": {
+            "minMarks": 45,
+            "maxIncome": 120000,
+            "educationLevel": [
+                "school",
+                "ug",
+                "pg",
+                "vocational"
+            ],
+            "streams": [
+                "Science",
+                "Arts",
+                "Commerce",
+                "Professional"
+            ],
+            "course": [
+                "Class VIII-XII",
+                "B.A",
+                "B.Sc",
+                "B.Com",
+                "M.A",
+                "M.Sc",
+                "M.Com",
+                "Diploma",
+                "Vocational"
+            ],
+            "gender": "female",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "West Bengal",
+            "applicationMode": "hybrid"
+        },
+        "documents": [
+            "Unmarried Certificate / Self-declaration confirming single status",
+            "Income Certificate issued by an appropriate authority (or disability/orphan certificate for income waiver)",
+            "Proof of Age (Birth Certificate, Madhyamik Admit Card, or official age proof)",
+            "Proof of Enrollment/Admission from school, college, or university",
+            "Bank Passbook first page showing Account Number, IFSC code, and beneficiary details",
+            "Undergraduate Mark Sheet (Mandatory for K3 applicants showing min. 45% marks)"
+        ],
+        "applicationProcess": [
+            "For K1 and K2: Obtain the official paper application form (Form K1/K2) from your school or college.",
+            "Fill out the form with personal, educational, and bank account details.",
+            "Attach all required supporting documents and submit the completed form to the institutional Nodal Officer/Headmaster.",
+            "The institution uploads the details to the official Kanyashree portal and generates a unique Application ID.",
+            "For K3: Register online on the official portal/SVMCM portal using your K2 ID, fill out course details, upload documents, and submit."
+        ],
+        "importantNotes": [
+            "The applicant must be unmarried at the time of application for K1 and K2 grants.",
+            "Maximum family income ceiling of ₹1,20,000 per year is waived for girls with 40%+ disability, orphans, or residents of registered Child Care Institutions.",
+            "K3 applicants must have previously received the K2 grant and achieved at least 45% marks in their Undergraduate degree."
+        ]
     },
-    "eligibility": {
-      "minMarks": 50,
-      "maxIncome": 200000,
-      "educationLevel": ["ug", "pg"],
-      "streams": ["Science", "Arts", "Commerce"],
-      "course": ["B.Sc", "B.A", "B.Com", "M.Sc", "M.A", "M.Com", "B.Ed", "B.P.Ed"],
-      "gender": "all",
-      "category": ["sc", "st", "obc"],
-      "domicile": "West Bengal",
-      "applicationMode": "hybrid"
-    },
-    "documents": [
-      "Caste Certificate issued by a competent authority",
-      "Income Certificate from a gazetted officer",
-      "Mark sheet of the last qualifying examination",
-      "Residential proof (Aadhaar or Voter card)",
-      "Bank Account details copy",
-      "Fees book / Admission receipt"
-    ],
-    "applicationProcess": [
-      "Open the Oasis portal: https://oasis.gov.in/",
-      "Click on 'Student Registration' and choose your district.",
-      "Verify your Caste Certificate detail online.",
-      "Fill out the application form, save draft, and click final submit.",
-      "Submit the printed physical form copy along with documents to your respective college office."
-    ],
-    "importantNotes": [
-      "The application must be verified and forwarded by the college administrative cell.",
-      "Ensure your bank account is linked with your Aadhaar number (Aadhaar Seeding)."
-    ]
-  },
-  {
-    "id": 3,
-    "slug": "aikyashree-minority-scholarship",
-    "name": "Aikyashree Minority Scholarship",
-    "shortName": "Aikyashree",
-    "provider": "West Bengal Minorities Development and Finance Corporation (WBMDFC)",
-    "type": "government",
-    "description": "A tailored scholarship program for students belonging to minority communities (Muslim, Christian, Sikh, Buddhist, Parsi, Jain) in West Bengal.",
-    "officialUrl": "https://wbmdfcscholarship.org/",
-    "lastVerified": "2026-08-11",
-    "financial": {
-      "text": "₹1,100 - ₹8,000 / year",
-      "maxValue": 8000,
-      "frequency": "yearly",
-      "tuitionCoverage": false
-    },
-    "dates": {
-      "periodText": "August - December",
-      "startDate": "2026-08-01",
-      "deadlineDate": "2026-12-15",
-      "isTentative": false
-    },
-    "contact": {
-      "helpline": "1800-120-2130",
-      "email": "wbmdfc@gmail.com",
-      "faqUrl": "https://wbmdfcscholarship.org/"
-    },
-    "eligibility": {
-      "minMarks": 50,
-      "maxIncome": 200000,
-      "educationLevel": ["ug", "pg"],
-      "streams": ["Science", "Arts", "Commerce", "Professional"],
-      "course": ["B.Sc", "B.A", "B.Com", "M.Sc", "M.A", "M.Com", "B.Ed", "LL.B", "LL.M"],
-      "gender": "all",
-      "category": ["general"],
-      "domicile": "West Bengal",
-      "applicationMode": "online"
-    },
-    "documents": [
-      "Self-declaration of Minority Community certificate",
-      "Income Certificate from a competent authority",
-      "Mark sheet of previous qualifying exam",
-      "Bank details proof (passbook/cancelled check)",
-      "Current session fees book"
-    ],
-    "applicationProcess": [
-      "Visit the WBMDFC Aikyashree portal: https://wbmdfcscholarship.org/",
-      "Register details, entering your course details and college identification.",
-      "Fill out the academic details and upload documents.",
-      "Submit online, print the hard copy, and submit it to your nodal officer."
-    ],
-    "importantNotes": [
-      "Only students belonging to notified minority communities of West Bengal can apply.",
-      "Must have secured at least 50% marks in the previous examination."
-    ]
-  },
-  {
-    "id": 4,
-    "slug": "nabanna-chief-ministers-relief-fund-scholarship",
-    "name": "West Bengal Chief Minister's Relief Fund (Nabanna)",
-    "shortName": "Nabanna",
-    "provider": "Government of West Bengal",
-    "type": "government",
-    "description": "Financial assistance from the Chief Minister's Relief Fund for meritorious students who have passed their last board or university exam and reside in West Bengal.",
-    "officialUrl": "http://wbcmo.gov.in/",
-    "lastVerified": "2026-08-01",
-    "financial": {
-      "text": "₹10,000 / year",
-      "maxValue": 10000,
-      "frequency": "yearly",
-      "tuitionCoverage": false
-    },
-    "dates": {
-      "periodText": "All year round",
-      "startDate": "2026-01-01",
-      "deadlineDate": "2026-12-31",
-      "isTentative": false
-    },
-    "contact": {
-      "helpline": "033-2214-1913",
-      "email": "cm@wb.gov.in",
-      "faqUrl": "http://wbcmo.gov.in/"
-    },
-    "eligibility": {
-      "minMarks": 50,
-      "maxIncome": 120000,
-      "educationLevel": ["ug", "pg"],
-      "streams": ["Science", "Arts", "Commerce"],
-      "course": ["B.Sc", "B.A", "B.Com", "M.Sc", "M.A", "M.Com", "B.Ed", "LL.B"],
-      "gender": "all",
-      "category": ["general", "sc", "st", "obc"],
-      "domicile": "West Bengal",
-      "applicationMode": "offline"
-    },
-    "documents": [
-      "Copy of Recommendation from MLA or MP",
-      "Self-declaration copy of family income countersigned by a Group-A Officer",
-      "Mark sheets of previous exams",
-      "Bank passbook front page front side",
-      "Self-declaration containing mobile number and signatures",
-      "Current semester fee structure/receipt"
-    ],
-    "applicationProcess": [
-      "Obtain the physical application form from Nabanna office or download the official format online.",
-      "Get MLA/MP recommendation signature on the application form.",
-      "Compile physical copies of all required credentials.",
-      "Submit the documents in-person to Nabanna Office (Kolkata) or mail them to the Joint Secretary, Chief Minister's Office."
-    ],
-    "importantNotes": [
-      "Requires active Recommendation from an MLA or MP from West Bengal.",
-      "Usually given as a one-time grant of ₹10,000 per academic year."
-    ]
-  },
-  {
-    "id": 5,
-    "slug": "hdfc-bank-parivartans-ecs-scholarship",
-    "name": "HDFC Bank Parivartan's ECS Scholarship",
-    "shortName": "HDFC ECS",
-    "provider": "HDFC Bank Foundation",
-    "type": "private",
-    "description": "A private scholarship intended for meritorious students belonging to underprivileged sections of society, covering school, college, and professional degrees across India.",
-    "officialUrl": "https://www.buddy4study.com/page/hdfc-banks-parivartan-ecs-scholarship",
-    "lastVerified": "2026-08-08",
-    "financial": {
-      "text": "₹30,000 - ₹75,000 / year",
-      "maxValue": 75000,
-      "frequency": "yearly",
-      "tuitionCoverage": true
-    },
-    "dates": {
-      "periodText": "July - September",
-      "startDate": "2026-07-01",
-      "deadlineDate": "2026-09-30",
-      "isTentative": false
-    },
-    "contact": {
-      "helpline": "011-430-92248",
-      "email": "hdfcbankecss@buddy4study.com",
-      "faqUrl": "https://www.buddy4study.com/"
-    },
-    "eligibility": {
-      "minMarks": 55,
-      "maxIncome": 250000,
-      "educationLevel": ["ug", "pg"],
-      "streams": ["Science", "Arts", "Commerce", "Professional"],
-      "course": ["B.Sc", "B.A", "B.Com", "M.Sc", "M.A", "M.Com", "B.Tech", "M.Tech", "MBA"],
-      "gender": "all",
-      "category": ["general", "sc", "st", "obc"],
-      "domicile": "India",
-      "applicationMode": "online"
-    },
-    "documents": [
-      "Previous year academic mark sheet",
-      "Income proof (Salary slip, IT return, or local authority certificate)",
-      "Identity proof (Aadhaar Card, PAN Card, Voter Card)",
-      "Admission letter or college receipt",
-      "Recent passport size photograph",
-      "Bank statement of the applicant or parent"
-    ],
-    "applicationProcess": [
-      "Access the Buddy4Study portal or the official HDFC page.",
-      "Navigate to the HDFC Parivartan ECS application link.",
-      "Complete registration, fill out details, and answer short eligibility questions.",
-      "Upload all supporting papers and submit online."
-    ],
-    "importantNotes": [
-      "Priority is given to students facing family crises or sudden financial hardships.",
-      "Open to students across India."
-    ]
-  },
-  {
-    "id": 6,
-    "slug": "loreal-india-for-young-women-in-science-scholarship",
-    "name": "L'Oréal India For Young Women in Science Scholarship",
-    "shortName": "L'Oréal Science",
-    "provider": "L'Oréal India",
-    "type": "private",
-    "description": "An exclusive private scholarship aimed at encouraging young women to pursue careers in science, engineering, medicine, and other scientific fields in India.",
-    "officialUrl": "https://www.loreal.com/en/india/",
-    "lastVerified": "2026-08-06",
-    "financial": {
-      "text": "₹2,50,000 / year",
-      "maxValue": 250000,
-      "frequency": "yearly",
-      "tuitionCoverage": true
-    },
-    "dates": {
-      "periodText": "August - October",
-      "startDate": "2026-08-01",
-      "deadlineDate": "2026-10-15",
-      "isTentative": false
-    },
-    "contact": {
-      "helpline": "011-430-92248",
-      "email": "fywis-india@loreal.com",
-      "faqUrl": "https://www.loreal.com/en/india/"
-    },
-    "eligibility": {
-      "minMarks": 85,
-      "maxIncome": 600000,
-      "educationLevel": ["ug"],
-      "streams": ["Science", "Professional"],
-      "course": ["B.Sc", "B.Tech", "MBBS", "B.Pharm", "BDS"],
-      "gender": "female",
-      "category": ["general", "sc", "st", "obc"],
-      "domicile": "India",
-      "applicationMode": "online"
-    },
-    "documents": [
-      "Aadhaar Card copy",
-      "Class 10 and 12 mark sheets",
-      "Income certificate issued by local self-government or SDM",
-      "Proof of admission in a science-related UG course"
-    ],
-    "applicationProcess": [
-      "Submit application on the official L'Oréal portal or partner channel (Buddy4Study).",
-      "Fill out personal, academic, and financial background details.",
-      "Submit a brief essay detailing career aspirations and interest in science.",
-      "Shortlisted candidates undergo a telephone interview followed by final selection."
-    ],
-    "importantNotes": [
-      "Strictly for female candidates pursuing undergraduate degrees in science streams.",
-      "Must have obtained 85% or above in PCB/PCM in Class 12 board exams."
-    ]
-  }
+    {
+        "id": 8,
+        "slug": "bigyani-kanya-medha-britti",
+        "name": "Bigyani Kanya Medha Britti (JBNSTS)",
+        "shortName": "BKMB",
+        "provider": "Jagadis Bose National Science Talent Search (JBNSTS), Kolkata",
+        "type": "government",
+        "description": "A prestigious state-level scholarship initiative administered by JBNSTS and supported by the Government of West Bengal to identify, mentor, and financially aid meritorious female students pursuing education in science, engineering, and medicine.",
+        "officialUrl": "https://jbnsts.ac.in/",
+        "lastVerified": "2026-08-14",
+        "financial": {
+            "text": "₹1,250 - ₹3,000 / month + ₹2,000 - ₹2,500 / year book grant",
+            "maxValue": 38000,
+            "frequency": "monthly",
+            "tuitionCoverage": false
+        },
+        "dates": {
+            "periodText": "June - July",
+            "startDate": "2026-06-01",
+            "deadlineDate": "2026-07-31",
+            "isTentative": false
+        },
+        "contact": {
+            "helpline": "033-2442-8270",
+            "email": "jbnsts@jbnsts.ac.in",
+            "faqUrl": "https://jbnsts.ac.in/"
+        },
+        "eligibility": {
+            "minMarks": 75,
+            "maxIncome": null,
+            "educationLevel": [
+                "school",
+                "ug"
+            ],
+            "streams": [
+                "Science",
+                "Professional"
+            ],
+            "course": [
+                "Class XI (Science)",
+                "B.Sc (Hons)",
+                "B.Tech",
+                "B.E",
+                "MBBS"
+            ],
+            "gender": "female",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "West Bengal",
+            "applicationMode": "online"
+        },
+        "documents": [
+            "Scanned copy of Class 10 mark sheet (Junior level) or Class 12 mark sheet (Senior level)",
+            "Proof of current admission in Class 11 (Science) or 1st year Undergraduate program (Basic Science/Engineering/Medicine)",
+            "High-resolution recent passport-sized photograph",
+            "Scanned signature of the applicant",
+            "Domicile Certificate or proof of studying in a recognized institution in West Bengal"
+        ],
+        "applicationProcess": [
+            "Visit the official JBNSTS examination portal: https://jbnsts.ac.in/",
+            "Select the application link for 'Junior Bigyani Kanya Medha Britti' or 'Senior Bigyani Kanya Medha Britti'.",
+            "Fill in the online application form with personal, contact, and academic details.",
+            "Upload the required documents (photograph, signature, mark sheet, and admission proof).",
+            "Pay the non-refundable examination fee (₹100 for Junior / ₹200 for Senior) online and submit the application."
+        ],
+        "importantNotes": [
+            "Selection is conducted through a written Talent Search Examination followed by an interview and scientific creativity assessment.",
+            "Junior level candidates must have selected at least three science subjects (Physics, Chemistry, Mathematics, Biology, Statistics, Computer Science) in Class 11.",
+            "In addition to monthly stipends and annual book grants, scholars receive exposure to scientific workshops, seminars, and research projects."
+        ]
+    }
 ]
