@@ -775,7 +775,7 @@
         ]
     },
     {
-        "id": 10,
+        "id": 11,
         "slug": "west-bengal-hindi-scholarship-scheme",
         "name": "West Bengal Hindi Scholarship Scheme",
         "shortName": "WBHSS",
@@ -852,7 +852,7 @@
         ]
     },
     {
-        "id": 11,
+        "id": 12,
         "slug": "talent-support-stipend-programme-tssp",
         "name": "Talent Support Stipend Programme (TSSP)",
         "shortName": "TSSP / TSP",
@@ -933,7 +933,7 @@
         ]
     },
     {
-        "id": 12,
+        "id": 13,
         "slug": "post-matric-scholarships-scheme-for-minorities",
         "name": "Post-Matric Scholarships Scheme for Minorities",
         "shortName": "NSP Post-Matric Minority",
@@ -1017,7 +1017,7 @@
         ]
     },
     {
-        "id": 13,
+        "id": 14,
         "slug": "reliance-foundation-undergraduate-scholarship",
         "name": "Reliance Foundation Undergraduate Scholarship",
         "shortName": "RFUG",
@@ -1097,7 +1097,7 @@
         ]
     },
     {
-        "id": 14,
+        "id": 15,
         "slug": "tata-capital-pankh-scholarship-scheme",
         "name": "Tata Capital Pankh Scholarship Scheme",
         "shortName": "Tata Pankh",
@@ -1179,7 +1179,7 @@
         ]
     },
     {
-        "id": 15,
+        "id": 16,
         "slug": "sitaram-jindal-foundation-scholarship",
         "name": "Sitaram Jindal Foundation Scholarship",
         "shortName": "SJF Scholarship",
@@ -1263,7 +1263,7 @@
         ]
     },
     {
-        "id": 16,
+        "id": 17,
         "slug": "kotak-kanya-scholarship",
         "name": "Kotak Kanya Scholarship",
         "shortName": "Kotak Kanya",
@@ -1336,6 +1336,247 @@
             "Exclusively restricted to meritorious female students who have secured admission in 1st year professional degree programs.",
             "Annual family income must be ₹6,00,000 or less.",
             "Children of employees of Kotak Mahindra Group and Kotak Education Foundation are strictly excluded."
+        ]
+    },
+    {
+        "id": 18,
+        "slug": "priyamvada-birla-scholarship",
+        "name": "Priyamvada Birla Scholarship",
+        "shortName": "Priyamvada Birla",
+        "provider": "Madhav Prasad Priyamvada Birla Apex Charitable Trust & South Point Education Society",
+        "type": "private",
+        "description": "A merit-cum-means private scholarship program initiated by the M.P. Birla Group to provide financial assistance to deserving, economically underprivileged students pursuing 1st-year undergraduate degree courses in West Bengal.",
+        "officialUrl": "https://www.southpoint.edu.in/",
+        "lastVerified": "2026-08-18",
+        "financial": {
+            "text": "Up to ₹24,000 / year (towards course fees and academic maintenance)",
+            "maxValue": 24000,
+            "frequency": "annual",
+            "tuitionCoverage": true
+        },
+        "dates": {
+            "periodText": "August - September",
+            "startDate": "2026-08-01",
+            "deadlineDate": "2026-09-30",
+            "isTentative": true
+        },
+        "contact": {
+            "helpline": "033-2440-4043",
+            "email": "priyamvadabirlascholarship@southpoint.edu.in",
+            "faqUrl": "https://www.southpoint.edu.in/"
+        },
+        "eligibility": {
+            "minMarks": 75,
+            "maxIncome": 100000,
+            "educationLevel": [
+                "ug"
+            ],
+            "streams": [
+                "Science",
+                "Arts",
+                "Commerce",
+                "Professional"
+            ],
+            "course": [
+                "B.A",
+                "B.Sc",
+                "B.Com",
+                "B.Tech",
+                "B.E",
+                "MBBS",
+                "LLB",
+                "BBA",
+                "BCA"
+            ],
+            "gender": "all",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "West Bengal",
+            "applicationMode": "online"
+        },
+        "documents": [
+            "Attested copy of Class 12 board examination mark sheet (WBCHSE / CBSE / ISC)",
+            "Proof of admission in 1st year Undergraduate course in a college/university in West Bengal",
+            "Family Income Certificate issued by competent authority (Competent Gazetted Officer / BDO / Municipal Commissioner)",
+            "Copy of applicant's Aadhaar Card or Residential Domicile Certificate",
+            "First page of applicant's Bank Passbook displaying Account Number and IFSC Code"
+        ],
+        "applicationProcess": [
+            "Visit the designated application portal on the South Point Education Society website.",
+            "Register by entering basic personal details, Class 12 marks, and current college enrollment details.",
+            "Upload scanned copies of qualifying mark sheet, family income proof, and admission fee receipt.",
+            "Submit the online form and take a printout of the confirmation receipt for record-keeping.",
+            "Shortlisted candidates undergo verification by the Apex Charitable Trust selection committee."
+        ],
+        "importantNotes": [
+            "Restricted strictly to 1st-year undergraduate college students studying within West Bengal.",
+            "Annual family income must not exceed ₹1,00,000 per annum from all sources.",
+            "The scholarship is granted initially for one year and is renewable annually subject to satisfactory academic evaluation."
+        ]
+    },
+    {
+        "id": 19,
+        "slug": "faea-scholarship",
+        "name": "FAEA Scholarship",
+        "shortName": "FAEA",
+        "provider": "Foundation for Academic Excellence and Access (FAEA)",
+        "type": "private",
+        "description": "A pan-India private scholarship initiative offering comprehensive financial coverage for socially and economically disadvantaged students to pursue undergraduate degree programs in any discipline across recognized Indian institutions.",
+        "officialUrl": "https://www.faeaindia.org/",
+        "lastVerified": "2026-08-18",
+        "financial": {
+            "text": "Full funding covering tuition fees, maintenance allowance, hostel charges, books, travel, and incidental expenses",
+            "maxValue": 120000,
+            "frequency": "annual",
+            "tuitionCoverage": true
+        },
+        "dates": {
+            "periodText": "May - June",
+            "startDate": "2026-05-01",
+            "deadlineDate": "2026-06-30",
+            "isTentative": false
+        },
+        "contact": {
+            "helpline": "011-2686-1601",
+            "email": "inquiry@faeaindia.org",
+            "faqUrl": "https://www.faeaindia.org/StudentInfo.asp"
+        },
+        "eligibility": {
+            "minMarks": 50,
+            "maxIncome": null,
+            "educationLevel": [
+                "ug"
+            ],
+            "streams": [
+                "Science",
+                "Arts",
+                "Commerce",
+                "Professional"
+            ],
+            "course": [
+                "B.A",
+                "B.Sc",
+                "B.Com",
+                "B.Tech",
+                "B.E",
+                "MBBS",
+                "BBA",
+                "BCA",
+                "Integrated Law"
+            ],
+            "gender": "all",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc",
+                "bpl"
+            ],
+            "domicile": "All India",
+            "applicationMode": "online"
+        },
+        "documents": [
+            "Class 12 examination mark sheet or provisional pass certificate",
+            "Proof of admission / Enrollment certificate in a full-time 1st-year undergraduate course",
+            "Caste / Category Certificate (mandatory for SC/ST/OBC/Differently-Abled candidates)",
+            "Income Certificate / BPL Card confirming socially and economically weaker background",
+            "Government-issued identity proof (Aadhaar Card, Voter ID, or Passport)"
+        ],
+        "applicationProcess": [
+            "Access the online portal at https://www.faeaindia.org/ and navigate to 'Fresh Registration'.",
+            "Fill in personal, contact, Class 12 board marks, chosen discipline, and referee details.",
+            "Submit the application online to generate a 9-digit Confirmation Code (no initial document uploads required).",
+            "Shortlisted candidates are called for regional interview rounds held in major metro cities.",
+            "Present original academic, category, and income certificates during the personal interview for final selection."
+        ],
+        "importantNotes": [
+            "Special preference and allocation are given to SC, ST, OBC, BPL, and minority candidates.",
+            "Covers up to 3 to 5 years depending on the duration of the undergraduate program.",
+            "Tuition fees and hostel charges are paid directly to the institution, while allowances are credited to the student's bank account."
+        ]
+    },
+    {
+        "id": 20,
+        "slug": "reliance-foundation-scholarships",
+        "name": "Reliance Foundation Scholarships",
+        "shortName": "Reliance Foundation",
+        "provider": "Reliance Foundation",
+        "type": "private",
+        "description": "A national scholarship program offering merit-cum-means financial grants and capacity-building support to 1st-year undergraduate students across all streams and postgraduate students in specialized STEM fields.",
+        "officialUrl": "https://www.scholarships.reliancefoundation.org/",
+        "lastVerified": "2026-08-18",
+        "financial": {
+            "text": "Up to ₹2,00,000 (UG) or ₹6,00,000 (PG) over the course duration",
+            "maxValue": 600000,
+            "frequency": "annual",
+            "tuitionCoverage": false
+        },
+        "dates": {
+            "periodText": "August - October",
+            "startDate": "2026-08-01",
+            "deadlineDate": "2026-10-06",
+            "isTentative": false
+        },
+        "contact": {
+            "helpline": "011-4117-1414",
+            "email": "rf.ugscholarships@reliancefoundation.org",
+            "faqUrl": "https://www.scholarships.reliancefoundation.org/"
+        },
+        "eligibility": {
+            "minMarks": 60,
+            "maxIncome": 1500000,
+            "educationLevel": [
+                "ug",
+                "pg"
+            ],
+            "streams": [
+                "Science",
+                "Arts",
+                "Commerce",
+                "Professional"
+            ],
+            "course": [
+                "B.Sc",
+                "B.A",
+                "B.Com",
+                "B.Tech",
+                "B.E",
+                "MBBS",
+                "M.Tech",
+                "M.Sc"
+            ],
+            "gender": "all",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "All India",
+            "applicationMode": "online"
+        },
+        "documents": [
+            "Class 12 board examination mark sheet showing minimum 60% aggregate (for UG)",
+            "Undergraduate degree transcripts and GATE score card (for PG applicants)",
+            "Proof of enrollment in 1st year full-time UG/PG degree program (College ID / Fee Receipt)",
+            "Annual household income certificate / ITR / salary slip (income under ₹15 Lakhs)",
+            "Government-issued Photo ID (Aadhaar Card, Voter ID, or Passport)"
+        ],
+        "applicationProcess": [
+            "Visit https://www.scholarships.reliancefoundation.org/ and select UG or PG program portal.",
+            "Complete the initial eligibility check and register your profile.",
+            "Fill out the comprehensive online application including academic achievements and personal essay.",
+            "Complete the mandatory 60-minute online Aptitude Test evaluating verbal, numerical, and logical reasoning.",
+            "Final selection is declared based on aptitude test score, academic history, and household income level."
+        ],
+        "importantNotes": [
+            "Supports 5,000 undergraduate and 100 post-graduate scholars across India every year.",
+            "A household income preference is given to families with annual income under ₹2.5 Lakhs.",
+            "Selected scholars gain access to leadership development sessions, networking opportunities, and mentorship workshops."
         ]
     }
 ]
