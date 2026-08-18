@@ -620,5 +620,722 @@
             "Junior level candidates must have selected at least three science subjects (Physics, Chemistry, Mathematics, Biology, Statistics, Computer Science) in Class 11.",
             "In addition to monthly stipends and annual book grants, scholars receive exposure to scientific workshops, seminars, and research projects."
         ]
+    },
+    {
+        "id": 9,
+        "slug": "jbnsts-senior-scholarship-scheme",
+        "name": "JBNSTS Senior Scholarship Scheme",
+        "shortName": "STST",
+        "provider": "Jagadis Bose National Science Talent Search (JBNSTS), Kolkata",
+        "type": "government",
+        "description": "A flagship state-level scholarship scheme for meritorious students who have passed Higher Secondary exams and are pursuing undergraduate degree courses in Basic Science, Engineering, or Medicine in West Bengal.",
+        "officialUrl": "https://jbnsts.ac.in/",
+        "lastVerified": "2026-08-16",
+        "financial": {
+            "text": "₹4,000 / month + ₹5,000 / year book grant",
+            "maxValue": 53000,
+            "frequency": "monthly",
+            "tuitionCoverage": false
+        },
+        "dates": {
+            "periodText": "June - July",
+            "startDate": "2026-06-01",
+            "deadlineDate": "2026-07-31",
+            "isTentative": false
+        },
+        "contact": {
+            "helpline": "033-2442-8270",
+            "email": "jbnsts@jbnsts.ac.in",
+            "faqUrl": "https://jbnsts.ac.in/"
+        },
+        "eligibility": {
+            "minMarks": 75,
+            "maxIncome": null,
+            "educationLevel": [
+                "ug"
+            ],
+            "streams": [
+                "Science",
+                "Professional"
+            ],
+            "course": [
+                "B.Sc (Hons)",
+                "BS-MS",
+                "B.Tech",
+                "B.E",
+                "MBBS"
+            ],
+            "gender": "all",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "West Bengal",
+            "applicationMode": "online"
+        },
+        "documents": [
+            "Scanned copy of Class 10 mark sheet",
+            "Scanned copy of Class 12 mark sheet",
+            "Proof of admission in 1st year Undergraduate course (Basic Science Hons / Engineering / Medicine) in West Bengal",
+            "High-resolution recent passport-sized photograph",
+            "Scanned signature of the applicant"
+        ],
+        "applicationProcess": [
+            "Visit the official JBNSTS examination portal: https://jbnsts.ac.in/",
+            "Select the application link for 'Senior Talent Search Test (STST)'.",
+            "Complete the registration form with personal details, academic history, and enrollment credentials.",
+            "Upload scanned copies of required mark sheets, admission proof, photo, and signature.",
+            "Pay the non-refundable examination fee (₹200) online and submit the application."
+        ],
+        "importantNotes": [
+            "Students enrolled in general graduation (pass courses), diploma programs, or B.Sc Nursing are strictly not eligible.",
+            "Selection involves a three-phase evaluation: Written Examination, Personal Interview, and Scientific Creativity Test.",
+            "Scholars are directly eligible to participate in scientific seminars, workshops, and the DST-INSPIRE programme."
+        ]
+    },
+    {
+        "id": 10,
+        "slug": "gp-birla-scholarship",
+        "name": "GP Birla Scholarship",
+        "shortName": "GPBS",
+        "provider": "GP Birla Educational Foundation",
+        "type": "private",
+        "description": "A merit-cum-means private scholarship program supporting academically exceptional yet economically underprivileged students from West Bengal to pursue undergraduate degrees at recognized Indian universities.",
+        "officialUrl": "https://gpbirlaedufoundation.com/",
+        "lastVerified": "2026-08-16",
+        "financial": {
+            "text": "Up to ₹60,000 / year + one-time book grant of ₹7,000",
+            "maxValue": 67000,
+            "frequency": "annual",
+            "tuitionCoverage": false
+        },
+        "dates": {
+            "periodText": "April - August",
+            "startDate": "2026-04-01",
+            "deadlineDate": "2026-08-15",
+            "isTentative": false
+        },
+        "contact": {
+            "helpline": "033-2248-6931",
+            "email": "gpbef@gpbirlaedufoundation.com",
+            "faqUrl": "https://gpbirlaedufoundation.com/faqs/"
+        },
+        "eligibility": {
+            "minMarks": 85,
+            "maxIncome": 800000,
+            "educationLevel": [
+                "ug"
+            ],
+            "streams": [
+                "Science",
+                "Arts",
+                "Commerce",
+                "Professional"
+            ],
+            "course": [
+                "B.Sc",
+                "B.A",
+                "B.Com",
+                "B.Tech",
+                "B.E",
+                "MBBS",
+                "LLB",
+                "Architecture"
+            ],
+            "gender": "all",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "West Bengal",
+            "applicationMode": "online"
+        },
+        "documents": [
+            "Scanned copy of Class 12 mark sheet",
+            "Proof of admission in 1st year Undergraduate course (Admission fee receipt or institutional letter)",
+            "Father's and/or Mother's Annual Family Income Certificate (issued by competent authority)",
+            "Applicant's Recent Passport-sized photograph (under 100 KB)",
+            "Domicile Certificate of West Bengal or Jharkhand"
+        ],
+        "applicationProcess": [
+            "Navigate to the official portal: https://gpbirlaedufoundation.com/",
+            "Click on 'Apply Online' for the current academic session.",
+            "Fill in personal, contact, family income, Class 12 academic results, and UG course admission details.",
+            "Upload photograph, income certificate (PDF), and mark sheets.",
+            "Submit the online application form before the cutoff date and save the generated Applicant Number."
+        ],
+        "importantNotes": [
+            "Minimum required marks: 85% for WBCHSE board or 90% for ISC/CBSE boards in Class 12.",
+            "Annual family income ceiling has been updated to ₹8,00,000 per annum.",
+            "Shortlisted candidates are selected based on academic merit, financial need, and an interview conducted by Expert Committee Trustees."
+        ]
+    },
+    {
+        "id": 10,
+        "slug": "west-bengal-hindi-scholarship-scheme",
+        "name": "West Bengal Hindi Scholarship Scheme",
+        "shortName": "WBHSS",
+        "provider": "Department of Higher Education, Government of West Bengal",
+        "type": "government",
+        "description": "A state government scholarship scheme aimed at encouraging students from non-Hindi speaking states like West Bengal to study Hindi language by providing financial assistance to those pursuing Hindi as a subject in Higher Secondary, Undergraduate, or Postgraduate courses.",
+        "officialUrl": "https://wbchse.wb.gov.in/student/scholarship/hindi-scholarship-scheme/",
+        "lastVerified": "2026-08-16",
+        "financial": {
+            "text": "₹300 - ₹1,000 / month",
+            "maxValue": 12000,
+            "frequency": "monthly",
+            "tuitionCoverage": false
+        },
+        "dates": {
+            "periodText": "October - December",
+            "startDate": "2026-10-01",
+            "deadlineDate": "2026-12-31",
+            "isTentative": false
+        },
+        "contact": {
+            "helpline": "033-2337-5127",
+            "email": "scholarship-hedwb@gov.in",
+            "faqUrl": "https://wbchse.wb.gov.in/"
+        },
+        "eligibility": {
+            "minMarks": 50,
+            "maxIncome": null,
+            "educationLevel": [
+                "school",
+                "ug",
+                "pg",
+                "phd"
+            ],
+            "streams": [
+                "Arts",
+                "Language"
+            ],
+            "course": [
+                "Class XI-XII",
+                "B.A (Hindi)",
+                "M.A (Hindi)",
+                "M.Phil",
+                "PhD"
+            ],
+            "gender": "all",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "West Bengal",
+            "applicationMode": "offline"
+        },
+        "documents": [
+            "Attested mark sheet of the last qualifying examination (Madhyamik, Higher Secondary, or UG)",
+            "Proof of admission in the current course with Hindi as one of the combination/main subjects",
+            "Domicile Certificate of West Bengal",
+            "Mother Tongue declaration certificate (confirming non-Hindi native status)",
+            "First page of Bank Passbook displaying Account Number and IFSC Code"
+        ],
+        "applicationProcess": [
+            "Obtain the official application form from the Higher Education Department office (Bikash Bhavan) or download it from the portal.",
+            "Fill in personal, academic, and institution details accurately.",
+            "Attach attested copies of qualifying mark sheets, mother tongue proof, and admission receipts.",
+            "Get the application form verified and attested by the Head of the Institution (Principal/Headmaster).",
+            "Submit the completed hard copy form to the Scholarship Section, Education Directorate, Bikash Bhavan, Salt Lake, Kolkata."
+        ],
+        "importantNotes": [
+            "The applicant's mother tongue must NOT be Hindi (specifically designed for non-Hindi speaking domiciles).",
+            "Students pursuing studies through correspondence/distance education or private mode are not eligible.",
+            "Candidates must have Hindi as one of the full-time subjects in their current course of study."
+        ]
+    },
+    {
+        "id": 11,
+        "slug": "talent-support-stipend-programme-tssp",
+        "name": "Talent Support Stipend Programme (TSSP)",
+        "shortName": "TSSP / TSP",
+        "provider": "West Bengal Minorities' Development and Finance Corporation (WBMDFC)",
+        "type": "government",
+        "description": "A state-level financial stipend scheme under Aikyashree designed for minority community students in West Bengal who have passed their last exam with less than 50% marks, enabling them to continue higher education from Class 11 up to Ph.D. level.",
+        "officialUrl": "https://wbmdfcscholarship.in/",
+        "lastVerified": "2026-08-16",
+        "financial": {
+            "text": "Up to ₹4,900 / year (varies by level of study)",
+            "maxValue": 4900,
+            "frequency": "annual",
+            "tuitionCoverage": false
+        },
+        "dates": {
+            "periodText": "August - December",
+            "startDate": "2026-08-01",
+            "deadlineDate": "2026-12-31",
+            "isTentative": true
+        },
+        "contact": {
+            "helpline": "1800-120-2130",
+            "email": "wbmdfc.aikyashree@gmail.com",
+            "faqUrl": "https://wbmdfcscholarship.in/main/faq"
+        },
+        "eligibility": {
+            "minMarks": 30,
+            "maxIncome": 200000,
+            "educationLevel": [
+                "school",
+                "ug",
+                "pg",
+                "vocational",
+                "phd"
+            ],
+            "streams": [
+                "Science",
+                "Arts",
+                "Commerce",
+                "Professional"
+            ],
+            "course": [
+                "Class XI-XII",
+                "B.A",
+                "B.Sc",
+                "B.Com",
+                "M.A",
+                "M.Sc",
+                "M.Com",
+                "Diploma",
+                "PhD"
+            ],
+            "gender": "all",
+            "category": [
+                "minority"
+            ],
+            "domicile": "West Bengal",
+            "applicationMode": "online"
+        },
+        "documents": [
+            "Mark sheet of the last qualifying examination (below 50% marks)",
+            "Annual Family Income Certificate issued by a competent authority (Pradhan/Chairman/Gazetted Officer)",
+            "Aadhaar Card or Residential/Domicile Proof",
+            "Copy of Bank Passbook with clear Account Number and IFSC Code",
+            "Current Academic Session Fee Receipt / Institutional Verification Certificate"
+        ],
+        "applicationProcess": [
+            "Access the WBMDFC Aikyashree portal: https://wbmdfcscholarship.in/",
+            "Select 'Student's Panel' and click on 'Fresh Registration'.",
+            "Choose the institution's district and enter personal credentials to register.",
+            "Select 'Talent Support Stipend Programme (TSP)' under eligible scheme options.",
+            "Fill out academic details, upload required documents, submit online, and submit the printed copy to your school/college."
+        ],
+        "importantNotes": [
+            "Exclusively meant for students belonging to notified minority communities (Muslim, Christian, Sikh, Buddhist, Jain, Parsi).",
+            "Specifically targets students who secured less than 50% marks in their last qualifying examination.",
+            "Students receiving any other government scholarship/stipend are not eligible to receive TSSP benefit simultaneously."
+        ]
+    },
+    {
+        "id": 12,
+        "slug": "post-matric-scholarships-scheme-for-minorities",
+        "name": "Post-Matric Scholarships Scheme for Minorities",
+        "shortName": "NSP Post-Matric Minority",
+        "provider": "Ministry of Minority Affairs, Government of India (via National Scholarship Portal)",
+        "type": "government",
+        "description": "A central sector scheme providing financial assistance to meritorious students belonging to economically weaker sections of notified minority communities to pursue post-matriculation or higher education from Class 11 up to Ph.D. level in recognized institutions across India.",
+        "officialUrl": "https://scholarships.gov.in/",
+        "lastVerified": "2026-08-18",
+        "financial": {
+            "text": "₹3,000 - ₹10,000 / year (includes admission, tuition fee & maintenance allowance)",
+            "maxValue": 10000,
+            "frequency": "annual",
+            "tuitionCoverage": true
+        },
+        "dates": {
+            "periodText": "June - October",
+            "startDate": "2026-06-01",
+            "deadlineDate": "2026-10-31",
+            "isTentative": false
+        },
+        "contact": {
+            "helpline": "0120-6619540",
+            "email": "helpdesk@nsp.gov.in",
+            "faqUrl": "https://scholarships.gov.in/public/FAQ/FAQ_PostMatric.pdf"
+        },
+        "eligibility": {
+            "minMarks": 50,
+            "maxIncome": 200000,
+            "educationLevel": [
+                "school",
+                "ug",
+                "pg",
+                "vocational",
+                "phd"
+            ],
+            "streams": [
+                "Science",
+                "Arts",
+                "Commerce",
+                "Professional"
+            ],
+            "course": [
+                "Class XI-XII",
+                "B.A",
+                "B.Sc",
+                "B.Com",
+                "M.A",
+                "M.Sc",
+                "M.Com",
+                "Diploma",
+                "B.Tech",
+                "MBBS",
+                "PhD"
+            ],
+            "gender": "all",
+            "category": [
+                "minority"
+            ],
+            "domicile": "All India",
+            "applicationMode": "online"
+        },
+        "documents": [
+            "Mark sheet of the last qualifying examination (securing minimum 50% marks)",
+            "Self-declaration / Minority Community Certificate",
+            "Income Certificate issued by a designated state authority",
+            "Proof of admission / Current fee receipt from the institution",
+            "First page of Bank Passbook displaying Account Number, IFSC, and applicant photo",
+            "Domicile Certificate issued by competent government authority"
+        ],
+        "applicationProcess": [
+            "Visit the official National Scholarship Portal (NSP): https://scholarships.gov.in/",
+            "Register for OTR (One-Time Registration) using mobile number and Aadhaar verification.",
+            "Log in to the student dashboard and fill out the detailed application form.",
+            "Select 'Post-Matric Scholarships Scheme for Minorities' under the Ministry of Minority Affairs section.",
+            "Upload scanned copies of required documents, submit online, and verify status via institute node."
+        ],
+        "importantNotes": [
+            "Exclusively applicable to students belonging to 6 notified minority communities: Muslim, Christian, Sikh, Buddhist, Jain, and Parsi.",
+            "30% of the overall scheme quota is reserved for girl students.",
+            "Students cannot hold more than one government scholarship simultaneously for the same course of study."
+        ]
+    },
+    {
+        "id": 13,
+        "slug": "reliance-foundation-undergraduate-scholarship",
+        "name": "Reliance Foundation Undergraduate Scholarship",
+        "shortName": "RFUG",
+        "provider": "Reliance Foundation",
+        "type": "private",
+        "description": "A prestigious pan-India scholarship initiative supporting meritorious undergraduate students from all academic streams, enabling them to complete their degree programs with financial security, leadership training, and network access.",
+        "officialUrl": "https://www.scholarships.reliancefoundation.org/",
+        "lastVerified": "2026-08-18",
+        "financial": {
+            "text": "Up to ₹2,00,000 spread over the duration of the degree course",
+            "maxValue": 200000,
+            "frequency": "annual",
+            "tuitionCoverage": false
+        },
+        "dates": {
+            "periodText": "August - October",
+            "startDate": "2026-08-01",
+            "deadlineDate": "2026-10-04",
+            "isTentative": true
+        },
+        "contact": {
+            "helpline": "011-4117-1414",
+            "email": "RF.UGScholarships@reliancefoundation.org",
+            "faqUrl": "https://www.scholarships.reliancefoundation.org/"
+        },
+        "eligibility": {
+            "minMarks": 60,
+            "maxIncome": 1500000,
+            "educationLevel": [
+                "ug"
+            ],
+            "streams": [
+                "Science",
+                "Arts",
+                "Commerce",
+                "Professional"
+            ],
+            "course": [
+                "B.Sc",
+                "B.A",
+                "B.Com",
+                "B.Tech",
+                "B.E",
+                "MBBS",
+                "BBA",
+                "BCA",
+                "LLB"
+            ],
+            "gender": "all",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "All India",
+            "applicationMode": "online"
+        },
+        "documents": [
+            "Class 12 board mark sheet showing minimum 60% aggregate",
+            "Proof of 1st-year enrollment in a full-time undergraduate degree course (Admission Slip / Identity Card)",
+            "Annual Family Income Certificate (Issued by competent authority or Salary Slips/ITR)",
+            "Recent passport-sized photograph",
+            "Government-issued Photo ID Proof (Aadhaar, Voter ID, Passport)"
+        ],
+        "applicationProcess": [
+            "Visit the official portal: https://www.scholarships.reliancefoundation.org/",
+            "Complete the eligibility questionnaire to verify status.",
+            "Fill out the online application form with personal, academic, and income details.",
+            "Upload mandatory documents in PDF/JPEG format.",
+            "Mandatory online Aptitude Test must be taken within specified dates to complete selection."
+        ],
+        "importantNotes": [
+            "Open to students enrolled in the 1st year of any full-time undergraduate degree program.",
+            "Family income up to ₹15 Lakhs per annum is eligible, with preference given to applicants with income under ₹2.5 Lakhs.",
+            "Selection involves academic performance, income evaluation, and a compulsory 60-minute online aptitude test."
+        ]
+    },
+    {
+        "id": 14,
+        "slug": "tata-capital-pankh-scholarship-scheme",
+        "name": "Tata Capital Pankh Scholarship Scheme",
+        "shortName": "Tata Pankh",
+        "provider": "Tata Capital Limited (CSR Initiative)",
+        "type": "private",
+        "description": "A CSR initiative by Tata Capital providing financial coverage of up to 80% of tuition fees to meritorious and economically vulnerable students pursuing school, diploma, general graduation, or professional degree programs.",
+        "officialUrl": "https://www.tatacapital.com/",
+        "lastVerified": "2026-08-18",
+        "financial": {
+            "text": "Up to 80% of tuition fees or ₹10,000 - ₹1,00,000 / year (varies by course level)",
+            "maxValue": 100000,
+            "frequency": "annual",
+            "tuitionCoverage": true
+        },
+        "dates": {
+            "periodText": "June - September",
+            "startDate": "2026-06-01",
+            "deadlineDate": "2026-09-30",
+            "isTentative": false
+        },
+        "contact": {
+            "helpline": "011-43092248",
+            "email": "pankh@buddy4study.com",
+            "faqUrl": "https://www.buddy4study.com/page/tata-capital-pankh-scholarship-program"
+        },
+        "eligibility": {
+            "minMarks": 60,
+            "maxIncome": 250000,
+            "educationLevel": [
+                "school",
+                "ug",
+                "vocational"
+            ],
+            "streams": [
+                "Science",
+                "Arts",
+                "Commerce",
+                "Professional"
+            ],
+            "course": [
+                "Class XI-XII",
+                "B.A",
+                "B.Sc",
+                "B.Com",
+                "B.Tech",
+                "MBBS",
+                "Polytechnic",
+                "Diploma",
+                "ITI"
+            ],
+            "gender": "all",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "All India",
+            "applicationMode": "online"
+        },
+        "documents": [
+            "Mark sheet of the previous academic class (minimum 60% aggregate required)",
+            "Government-issued identity proof (Aadhaar Card, Voter ID, Driving License)",
+            "Current year admission proof (Fee Receipt, Admission Letter, College ID card)",
+            "Proof of family income (Income certificate, Form 16A, BPL card, Salary slip)",
+            "Bank account details of the applicant (or joint account with parent for minors)"
+        ],
+        "applicationProcess": [
+            "Go to the designated application page on Buddy4Study portal.",
+            "Log in with registered account credentials or create a new user profile.",
+            "Fill out personal information, academic details, and course choices.",
+            "Upload required supporting documents clear in PDF or JPG formats.",
+            "Accept terms and conditions and submit the online application."
+        ],
+        "importantNotes": [
+            "Minimum required marks: 60% for general graduation/diploma courses, up to 80% for specialized professional courses.",
+            "Family annual income must not exceed ₹2,50,000 from all combined sources.",
+            "Children of employees of Tata Capital and Buddy4Study are strictly ineligible."
+        ]
+    },
+    {
+        "id": 15,
+        "slug": "sitaram-jindal-foundation-scholarship",
+        "name": "Sitaram Jindal Foundation Scholarship",
+        "shortName": "SJF Scholarship",
+        "provider": "Sitaram Jindal Foundation",
+        "type": "private",
+        "description": "A long-standing merit-cum-means private scholarship program that offers monthly stipend support to underprivileged Indian students pursuing education from Class 11 up to Post-Graduation, including professional and medical degrees.",
+        "officialUrl": "https://www.sitaramjindalfoundation.org/",
+        "lastVerified": "2026-08-18",
+        "financial": {
+            "text": "₹500 - ₹3,200 / month + additional hostel allowance (₹1,000 - ₹1,200/month)",
+            "maxValue": 38400,
+            "frequency": "monthly",
+            "tuitionCoverage": false
+        },
+        "dates": {
+            "periodText": "Open Round the Year / Rolling Basis",
+            "startDate": "2026-01-01",
+            "deadlineDate": "2026-12-31",
+            "isTentative": false
+        },
+        "contact": {
+            "helpline": "080-2371-7777",
+            "email": "scholarship@sitaramjindalfoundation.org",
+            "faqUrl": "https://www.sitaramjindalfoundation.org/scholarship_faqs.php"
+        },
+        "eligibility": {
+            "minMarks": 60,
+            "maxIncome": 400000,
+            "educationLevel": [
+                "school",
+                "ug",
+                "pg",
+                "vocational"
+            ],
+            "streams": [
+                "Science",
+                "Arts",
+                "Commerce",
+                "Professional"
+            ],
+            "course": [
+                "Class XI-XII",
+                "ITI",
+                "Diploma",
+                "B.A",
+                "B.Sc",
+                "B.Com",
+                "M.A",
+                "M.Sc",
+                "B.Tech",
+                "MBBS"
+            ],
+            "gender": "all",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "All India",
+            "applicationMode": "hybrid"
+        },
+        "documents": [
+            "Attested copy of Mark Sheet of the last qualifying examination",
+            "Income Certificate issued by competent authority (up to ₹2.5L for general, ₹4L for salaried)",
+            "Certificate of Admission/Fee receipt from current institution",
+            "Certificate from Warden/Head of Institution (for hostellers receiving hostel grant)",
+            "Physical Disability Certificate (if applicable for mark relaxations)"
+        ],
+        "applicationProcess": [
+            "Download the prescribed application form Annexure-I from https://www.sitaramjindalfoundation.org/",
+            "Fill in personal, academic, family background, and course information in physical form.",
+            "Attach required attested documents and obtain Principal/Head of Institution verification signature and stamp.",
+            "Send the physical application form via speed post/courier to the foundation office in Bengaluru or apply online via their portal.",
+            "Track status online using application ID."
+        ],
+        "importantNotes": [
+            "Applications are accepted year-round without a fixed cutoff date.",
+            "Female applicants, physically challenged students, and wards of ex-servicemen receive relaxed percentage requirements.",
+            "Final year students who have already completed course duration are ineligible to apply."
+        ]
+    },
+    {
+        "id": 16,
+        "slug": "kotak-kanya-scholarship",
+        "name": "Kotak Kanya Scholarship",
+        "shortName": "Kotak Kanya",
+        "provider": "Kotak Education Foundation & Kotak Mahindra Group",
+        "type": "private",
+        "description": "A focused corporate social initiative providing financial grants to high-achieving female students from low-income families to complete professional undergraduate graduation degrees at recognized Indian institutes.",
+        "officialUrl": "https://kotakeducation.org/",
+        "lastVerified": "2026-08-18",
+        "financial": {
+            "text": "Up to ₹1,50,000 / year (covers tuition fees, hostel, books, laptop, & academic expense)",
+            "maxValue": 150000,
+            "frequency": "annual",
+            "tuitionCoverage": true
+        },
+        "dates": {
+            "periodText": "June - September",
+            "startDate": "2026-06-01",
+            "deadlineDate": "2026-09-30",
+            "isTentative": false
+        },
+        "contact": {
+            "helpline": "022-61355200",
+            "email": "kotakkanya@kotakeducation.org",
+            "faqUrl": "https://kotakeducation.org/kotak-kanya-scholarship/"
+        },
+        "eligibility": {
+            "minMarks": 75,
+            "maxIncome": 600000,
+            "educationLevel": [
+                "ug"
+            ],
+            "streams": [
+                "Professional"
+            ],
+            "course": [
+                "B.Tech",
+                "B.E",
+                "MBBS",
+                "Integrated LLB",
+                "B.Arch",
+                "B.Pharm",
+                "BS-MS (NIRF Institutes)"
+            ],
+            "gender": "female",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "All India",
+            "applicationMode": "online"
+        },
+        "documents": [
+            "Class 12 board examination mark sheet showing 75% or higher",
+            "Proof of 1st-year admission in a professional degree course in a recognized institute (NAAC/NIRF)",
+            "Annual Family Income Certificate issued by Sub-Divisional Magistrate / Tehsildar / Gazetted Officer",
+            "Fee receipt / Fee structure document issued by the college or university",
+            "Aadhaar Card of student",
+            "Passbook copy or cancelled cheque showing beneficiary bank details"
+        ],
+        "applicationProcess": [
+            "Access the Kotak Kanya Scholarship application link on Buddy4Study / Kotak portal.",
+            "Register using active mobile number and email ID.",
+            "Fill out educational details, family background, and income details.",
+            "Upload clean scans of all required documents (Class 12 mark sheet, income certificate, admission proof).",
+            "Submit application form and participate in telephonic/video interview if shortlisted."
+        ],
+        "importantNotes": [
+            "Exclusively restricted to meritorious female students who have secured admission in 1st year professional degree programs.",
+            "Annual family income must be ₹6,00,000 or less.",
+            "Children of employees of Kotak Mahindra Group and Kotak Education Foundation are strictly excluded."
+        ]
     }
 ]
