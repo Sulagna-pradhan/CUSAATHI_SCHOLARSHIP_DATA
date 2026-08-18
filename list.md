@@ -29,7 +29,7 @@
 ### Private & Corporate Scholarships
 
 20. [x] **GP Birla Scholarship** – GP Birla Educational Foundation
-21. [ ] **Priyamvada Birla Scholarship** – South Point Education Society / M.P. Birla Group
+21. [x] **Priyamvada Birla Scholarship** – South Point Education Society / M.P. Birla Group
 23. [ ] **Ananta Merit Scholarship** – Ananta Foundation
 24. [ ] **Aalo Scholarship** – Aalo Charity Trust
 25. [ ] **Ei Samay Atmadeep Young Scholarship** – Times Group / Ei Samay
@@ -41,9 +41,9 @@
 31. [ ] **SBIF Asha Scholarship Program** – SBI Foundation
 32. [x] **Kotak Kanya Scholarship** – Kotak Education Foundation
 33. [ ] **K.C. Mahindra Scholarship for Post-Graduate Studies Abroad** – K. C. Mahindra Education Trust
-34. [ ] **FAEA Scholarship** – Foundation for Academic Excellence and Access
+34. [x] **FAEA Scholarship** – Foundation for Academic Excellence and Access
 35. [ ] **Sahu Jain Trust Scholarship** – Sahu Jain Trust
 36. [x] **L’Oréal India For Young Women In Science Scholarship** – L’Oréal India
-37. [ ] **Swami Dayanand Education Foundation Merit-cum-Means Scholarship** – Swami Dayanand Foundation
+37. [ ] **Reliance Foundation Scholarships**
 38. [ ] **IndusInd Bank Merit Scholarship** – IndusInd Bank
 39. [ ] **Vidyasaarathi MPCL Scholarship** – NSDL e-Governance / MPCL
