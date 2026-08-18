@@ -7,7 +7,7 @@
         "provider": "Government of West Bengal",
         "type": "government",
         "description": "A premier state government scholarship providing financial assistance to meritorious students from economically weaker sections pursuing UG, PG, or professional courses in West Bengal.",
-        "officialUrl": "https://svmcm.wbhed.gov.in/",
+        "officialUrl": "https://svmcm.wb.gov.in/",
         "lastVerified": "2026-08-10",
         "financial": {
             "text": "₹1,000 - ₹5,000 / month",
@@ -68,7 +68,7 @@
             "Admission Receipt of the current academic session"
         ],
         "applicationProcess": [
-            "Access the official SVMCM portal: https://svmcm.wbhed.gov.in/",
+            "Access the official SVMCM portal: https://svmcm.wb.gov.in/",
             "Register as a new user by selecting the appropriate directorate (e.g., DPI, DTE).",
             "Login with the generated credentials and complete the application profile.",
             "Upload scanned copies of all required documents in PDF format.",
@@ -76,7 +76,8 @@
         ],
         "importantNotes": [
             "The income certificate must be from an officer not below the rank of Joint BDO.",
-            "Double application for multiple government scholarships will lead to rejection of both."
+            "Double application for multiple government scholarships will lead to rejection of both.",
+            "Minority students may apply from https://www.wbmdfcscholarship.org/"
         ]
     },
     {
@@ -165,7 +166,7 @@
         "provider": "West Bengal Minorities Development and Finance Corporation (WBMDFC)",
         "type": "government",
         "description": "A tailored scholarship program for students belonging to minority communities (Muslim, Christian, Sikh, Buddhist, Parsi, Jain) in West Bengal.",
-        "officialUrl": "https://wbmdfcscholarship.org/",
+        "officialUrl": "https://wbmdfc.org/",
         "lastVerified": "2026-08-11",
         "financial": {
             "text": "₹1,100 - ₹8,000 / year",
@@ -181,8 +182,8 @@
         },
         "contact": {
             "helpline": "1800-120-2130",
-            "email": "wbmdfc@gmail.com",
-            "faqUrl": "https://wbmdfcscholarship.org/"
+            "email": "mdfc.wb@gmail.com",
+            "faqUrl": "https://wbmdfc.org/"
         },
         "eligibility": {
             "minMarks": 50,
@@ -223,7 +224,7 @@
             "Current session fees book"
         ],
         "applicationProcess": [
-            "Visit the WBMDFC Aikyashree portal: https://wbmdfcscholarship.org/",
+            "Visit the WBMDFC Aikyashree portal: https://wbmdfc.org/",
             "Register details, entering your course details and college identification.",
             "Fill out the academic details and upload documents.",
             "Submit online, print the hard copy, and submit it to your nodal officer."
@@ -241,7 +242,7 @@
         "provider": "Government of West Bengal",
         "type": "government",
         "description": "Financial assistance from the Chief Minister's Relief Fund for meritorious students who have passed their last board or university exam and reside in West Bengal.",
-        "officialUrl": "http://wbcmo.gov.in/",
+        "officialUrl": "https://cmrf.wb.gov.in/",
         "lastVerified": "2026-08-01",
         "financial": {
             "text": "₹10,000 / year",
@@ -257,8 +258,8 @@
         },
         "contact": {
             "helpline": "033-2214-1913",
-            "email": "cm@wb.gov.in",
-            "faqUrl": "http://wbcmo.gov.in/"
+            "email": "wbcmrfedu2020@gmail.com",
+            "faqUrl": "https://cmrf.wb.gov.in/"
         },
         "eligibility": {
             "minMarks": 50,
@@ -319,7 +320,7 @@
         "provider": "HDFC Bank Foundation",
         "type": "private",
         "description": "A private scholarship intended for meritorious students belonging to underprivileged sections of society, covering school, college, and professional degrees across India.",
-        "officialUrl": "https://www.buddy4study.com/page/hdfc-banks-parivartan-ecs-scholarship",
+        "officialUrl": "https://www.hdfcbankecss.com/",
         "lastVerified": "2026-08-08",
         "financial": {
             "text": "₹30,000 - ₹75,000 / year",
@@ -336,7 +337,7 @@
         "contact": {
             "helpline": "011-430-92248",
             "email": "hdfcbankecss@buddy4study.com",
-            "faqUrl": "https://www.buddy4study.com/"
+            "faqUrl": "https://www.hdfcbankecss.com/"
         },
         "eligibility": {
             "minMarks": 55,
@@ -399,7 +400,7 @@
         "provider": "L'Oréal India",
         "type": "private",
         "description": "An exclusive private scholarship aimed at encouraging young women to pursue careers in science, engineering, medicine, and other scientific fields in India.",
-        "officialUrl": "https://www.loreal.com/en/india/",
+        "officialUrl": "https://www.buddy4study.com/page/loreal-india-for-young-women-in-science-scholarships",
         "lastVerified": "2026-08-06",
         "financial": {
             "text": "₹2,50,000 / year",
@@ -719,7 +720,7 @@
         },
         "contact": {
             "helpline": "033-2248-6931",
-            "email": "gpbef@gpbirlaedufoundation.com",
+            "email": "office@gpbirlaedufoundation.com",
             "faqUrl": "https://gpbirlaedufoundation.com/faqs/"
         },
         "eligibility": {
@@ -853,83 +854,86 @@
     },
     {
         "id": 12,
-        "slug": "talent-support-stipend-programme-tssp",
-        "name": "Talent Support Stipend Programme (TSSP)",
-        "shortName": "TSSP / TSP",
-        "provider": "West Bengal Minorities' Development and Finance Corporation (WBMDFC)",
-        "type": "government",
-        "description": "A state-level financial stipend scheme under Aikyashree designed for minority community students in West Bengal who have passed their last exam with less than 50% marks, enabling them to continue higher education from Class 11 up to Ph.D. level.",
-        "officialUrl": "https://wbmdfcscholarship.in/",
-        "lastVerified": "2026-08-16",
+        "slug": "indian-oil-sports-scholarship",
+        "name": "Indian Oil Sports Scholarship",
+        "shortName": "IOCL Sports Scholarship",
+        "provider": "Indian Oil Corporation Limited (IOCL)",
+        "type": "private",
+        "description": "A specialized scholarship initiative by Indian Oil Corporation Limited aimed at nurturing young, talented sportspersons across various recognized sports disciplines by providing monthly financial support to help cover training, equipment, and tournament expenses.",
+        "officialUrl": "https://iocl.com/",
+        "lastVerified": "2026-08-19",
         "financial": {
-            "text": "Up to ₹4,900 / year (varies by level of study)",
-            "maxValue": 4900,
-            "frequency": "annual",
+            "text": "₹12,000 - ₹16,000 / month (based on Elite or Scholar category)",
+            "maxValue": 192000,
+            "frequency": "monthly",
             "tuitionCoverage": false
         },
         "dates": {
-            "periodText": "August - December",
+            "periodText": "August - November",
             "startDate": "2026-08-01",
-            "deadlineDate": "2026-12-31",
+            "deadlineDate": "2026-11-15",
             "isTentative": true
         },
         "contact": {
-            "helpline": "1800-120-2130",
-            "email": "wbmdfc.aikyashree@gmail.com",
-            "faqUrl": "https://wbmdfcscholarship.in/main/faq"
+            "helpline": "022-26447000",
+            "email": "sportsscholarship@indianoil.in",
+            "faqUrl": "https://iocl.com/pages/SportsScholarships"
         },
         "eligibility": {
-            "minMarks": 30,
-            "maxIncome": 200000,
+            "minMarks": null,
+            "maxIncome": null,
             "educationLevel": [
                 "school",
                 "ug",
                 "pg",
-                "vocational",
-                "phd"
+                "vocational"
             ],
             "streams": [
                 "Science",
                 "Arts",
                 "Commerce",
-                "Professional"
+                "Professional",
+                "Sports"
             ],
             "course": [
-                "Class XI-XII",
+                "Class VIII-XII",
                 "B.A",
                 "B.Sc",
                 "B.Com",
-                "M.A",
-                "M.Sc",
-                "M.Com",
+                "B.Tech",
                 "Diploma",
-                "PhD"
+                "Open Schooling"
             ],
             "gender": "all",
             "category": [
-                "minority"
+                "general",
+                "sc",
+                "st",
+                "obc"
             ],
-            "domicile": "West Bengal",
+            "domicile": "All India",
             "applicationMode": "online"
         },
         "documents": [
-            "Mark sheet of the last qualifying examination (below 50% marks)",
-            "Annual Family Income Certificate issued by a competent authority (Pradhan/Chairman/Gazetted Officer)",
-            "Aadhaar Card or Residential/Domicile Proof",
-            "Copy of Bank Passbook with clear Account Number and IFSC Code",
-            "Current Academic Session Fee Receipt / Institutional Verification Certificate"
+            "Proof of Age / Birth Certificate or Class 10 Board Certificate",
+            "Sports Performance & Certificate of Merit (National / International representation)",
+            "Certificate from National Sports Federation (NSF) or State Sports Association",
+            "Recent passport-sized photograph of the athlete",
+            "Government-issued Photo ID Proof (Aadhaar Card, Passport, or School ID)",
+            "First page of Bank Passbook showing Account Number and IFSC Code"
         ],
         "applicationProcess": [
-            "Access the WBMDFC Aikyashree portal: https://wbmdfcscholarship.in/",
-            "Select 'Student's Panel' and click on 'Fresh Registration'.",
-            "Choose the institution's district and enter personal credentials to register.",
-            "Select 'Talent Support Stipend Programme (TSP)' under eligible scheme options.",
-            "Fill out academic details, upload required documents, submit online, and submit the printed copy to your school/college."
+            "Visit the official IOCL Sports portal: https://iocl.com/.",
+            "Navigate to the 'Indian Oil Sports Scholarship' application section.",
+            "Register by providing basic contact details, age proof, and chosen sports discipline.",
+            "Fill out the application form with detailed tournament participation records and achievements.",
+            "Upload scanned copies of sports certificates, age proof, and bank details, then submit the form."
         ],
         "importantNotes": [
-            "Exclusively meant for students belonging to notified minority communities (Muslim, Christian, Sikh, Buddhist, Jain, Parsi).",
-            "Specifically targets students who secured less than 50% marks in their last qualifying examination.",
-            "Students receiving any other government scholarship/stipend are not eligible to receive TSSP benefit simultaneously."
+            "Applicants must be between 13 and 19 years of age at the time of application.",
+            "Scholarships are awarded across two categories: 'Elite Sportspersons' and 'Scholars'.",
+            "Covers approved disciplines such as Athletics, Badminton, Chess, Cricket, Table Tennis, Swimming, Hockey, and Tennis.",
+            "Athletes representing the country at international or national levels receive priority selection."
         ]
     },
     {
@@ -957,7 +961,7 @@
         "contact": {
             "helpline": "0120-6619540",
             "email": "helpdesk@nsp.gov.in",
-            "faqUrl": "https://scholarships.gov.in/public/FAQ/FAQ_PostMatric.pdf"
+            "faqUrl": "https://scholarships.gov.in/"
         },
         "eligibility": {
             "minMarks": 50,
@@ -1121,7 +1125,7 @@
         "contact": {
             "helpline": "011-43092248",
             "email": "pankh@buddy4study.com",
-            "faqUrl": "https://www.buddy4study.com/page/tata-capital-pankh-scholarship-program"
+            "faqUrl": "https://www.buddy4study.com/page/the-tata-capital-pankh-scholarship-programme"
         },
         "eligibility": {
             "minMarks": 60,
@@ -1203,7 +1207,7 @@
         "contact": {
             "helpline": "080-2371-7777",
             "email": "scholarship@sitaramjindalfoundation.org",
-            "faqUrl": "https://www.sitaramjindalfoundation.org/scholarship_faqs.php"
+            "faqUrl": "https://www.sitaramjindalfoundation.org/"
         },
         "eligibility": {
             "minMarks": 60,
@@ -1270,7 +1274,7 @@
         "provider": "Kotak Education Foundation & Kotak Mahindra Group",
         "type": "private",
         "description": "A focused corporate social initiative providing financial grants to high-achieving female students from low-income families to complete professional undergraduate graduation degrees at recognized Indian institutes.",
-        "officialUrl": "https://kotakeducation.org/",
+        "officialUrl": "https://www.kotakeducationfoundation.org/kotak-kanya-scholarship",
         "lastVerified": "2026-08-18",
         "financial": {
             "text": "Up to ₹1,50,000 / year (covers tuition fees, hostel, books, laptop, & academic expense)",
@@ -1285,9 +1289,9 @@
             "isTentative": false
         },
         "contact": {
-            "helpline": "022-61355200",
-            "email": "kotakkanya@kotakeducation.org",
-            "faqUrl": "https://kotakeducation.org/kotak-kanya-scholarship/"
+            "helpline": "011-430-92248",
+            "email": "contact@kotakeducationfoundation.org",
+            "faqUrl": "https://www.kotakeducationfoundation.org/kotak-kanya-scholarship"
         },
         "eligibility": {
             "minMarks": 75,
@@ -1577,6 +1581,169 @@
             "Supports 5,000 undergraduate and 100 post-graduate scholars across India every year.",
             "A household income preference is given to families with annual income under ₹2.5 Lakhs.",
             "Selected scholars gain access to leadership development sessions, networking opportunities, and mentorship workshops."
+        ]
+    },
+    {
+        "id": 21,
+        "slug": "raman-kant-munjal-scholarship",
+        "name": "Raman Kant Munjal Scholarship",
+        "shortName": "RKM Scholarship",
+        "provider": "Raman Kant Munjal Foundation (in association with Hero FinCorp)",
+        "type": "private",
+        "description": "A prestigious merit-cum-means scholarship aimed at helping meritorious 1st-year undergraduate students pursuing finance, management, commerce, and economics degree courses across recognized colleges in India.",
+        "officialUrl": "https://rkmfoundation.org/Scholarships.aspx",
+        "lastVerified": "2026-08-19",
+        "financial": {
+            "text": "₹40,000 to ₹5,50,000 / year (renewable for up to 3 years based on course fees)",
+            "maxValue": 550000,
+            "frequency": "annual",
+            "tuitionCoverage": true
+        },
+        "dates": {
+            "periodText": "June - August",
+            "startDate": "2026-06-01",
+            "deadlineDate": "2026-08-31",
+            "isTentative": false
+        },
+        "contact": {
+            "helpline": "011-43092248",
+            "email": "rkmfoundation@buddy4study.com",
+            "faqUrl": "https://rkmfoundation.org/Scholarships.aspx"
+        },
+        "eligibility": {
+            "minMarks": 80,
+            "maxIncome": 600000,
+            "educationLevel": [
+                "ug"
+            ],
+            "streams": [
+                "Commerce",
+                "Arts",
+                "Professional"
+            ],
+            "course": [
+                "BBA",
+                "BFIA",
+                "B.Com (Hons)",
+                "BMS",
+                "IPM",
+                "BA (Economics)",
+                "BBI",
+                "BAF",
+                "B.Sc (Statistics)"
+            ],
+            "gender": "all",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "All India",
+            "applicationMode": "online"
+        },
+        "documents": [
+            "Class 10 and Class 12 mark sheets showing minimum 80% aggregate",
+            "Proof of admission / College Acceptance Letter / Bonafide Certificate",
+            "College fee receipt and fee structure details",
+            "Annual Family Income Certificate or Salary Certificate / ITR",
+            "Applicant's Photo ID proof (Aadhaar Card or Voter ID)",
+            "First page of Bank Passbook displaying Account Number and IFSC Code"
+        ],
+        "applicationProcess": [
+            "Visit the official application portal on Buddy4Study / RKM Foundation website.",
+            "Register using an active email address and mobile number.",
+            "Fill in personal background, Class 10/12 board marks, and undergraduate enrollment details.",
+            "Upload clean scans of all required mark sheets, income certificate, and fee receipts.",
+            "Complete the short essay prompt / personal statement and submit the form.",
+            "Shortlisted candidates undergo a career assessment test followed by telephonic and final interviews."
+        ],
+        "importantNotes": [
+            "Applicants must be currently enrolled in the 1st year of eligible management, commerce, or economics degree courses.",
+            "Minimum qualifying percentage is 80% in both Class 10 and Class 12 board examinations (70% for PwD candidates).",
+            "Annual family income ceiling is fixed at ₹6,00,000 per annum."
+        ]
+    },
+    {
+        "id": 22,
+        "slug": "indusind-bank-scholarship",
+        "name": "IndusInd Bank Merit Scholarship (IndusInd Foundation)",
+        "shortName": "IndusInd Scholarship",
+        "provider": "IndusInd Foundation (Hinduja Group)",
+        "type": "private",
+        "description": "A long-running philanthropic scholarship scheme aimed at financially assisting meritorious high school graduates pursuing full-time undergraduate (Bachelor's) degree programs in Science, Arts, Commerce, Engineering, Medical, and Professional fields.",
+        "officialUrl": "https://www.theindusindfoundation.org/",
+        "lastVerified": "2026-08-19",
+        "financial": {
+            "text": "₹600 - ₹2,200 / month (credited directly to student's bank account)",
+            "maxValue": 26400,
+            "frequency": "monthly",
+            "tuitionCoverage": false
+        },
+        "dates": {
+            "periodText": "June - August",
+            "startDate": "2026-06-15",
+            "deadlineDate": "2026-08-31",
+            "isTentative": false
+        },
+        "contact": {
+            "helpline": "022-61360407",
+            "email": "indusindfoundation@hindujagroup.com",
+            "faqUrl": "https://www.theindusindfoundation.org/"
+        },
+        "eligibility": {
+            "minMarks": 85,
+            "maxIncome": 600000,
+            "educationLevel": [
+                "ug"
+            ],
+            "streams": [
+                "Science",
+                "Arts",
+                "Commerce",
+                "Professional"
+            ],
+            "course": [
+                "B.A",
+                "B.Sc",
+                "B.Com",
+                "B.Tech",
+                "B.E",
+                "MBBS",
+                "BCA",
+                "BBA",
+                "Para-Medical"
+            ],
+            "gender": "all",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "All India",
+            "applicationMode": "offline"
+        },
+        "documents": [
+            "Attested copy of Higher Secondary (Class 12) Board Examination Scorecard",
+            "Proof of admission / Official Fee Receipt for 1st-year Bachelor's degree course",
+            "Family Income Proof (ITR copy, Salary Slips, or Government Income Certificate)",
+            "Student's Bank Details (Cancelled Cheque or Passbook first page)",
+            "Handwritten Career Plan document by the student",
+            "Copy of Photo ID Proof (Aadhaar Card / PAN Card)",
+            "Latest family photograph"
+        ],
+        "applicationProcess": [
+            "Download the prescribed application form from the official website: https://www.theindusindfoundation.org/",
+            "Fill out the physical form completely with personal details, academic history, and financial background.",
+            "Attach all mandatory attested documents, bank details, and the handwritten career plan.",
+            "Obtain institutional attestation/stamp from the Principal/Head of Department.",
+            "Send the completed hard copy application packet via registered post/courier to the IndusInd Foundation office in Mumbai."
+        ],
+        "importantNotes": [
+            "Strictly restricted to students entering 1st year of full-time undergraduate degree courses after clearing HSC/Class 12.",
+            "Requires a minimum aggregate of 85% in Class 12 board examinations.",
+            "Applications are accepted via physical postal submission only; digital or email submissions are not accepted."
         ]
     }
 ]
