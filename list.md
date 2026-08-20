@@ -18,9 +18,6 @@
 - [ ] **PM Young Achievers Scholarship Award Scheme (PM YASASVI)** – Ministry of Social Justice and Empowerment
 - [ ] **DST-INSPIRE Scholarship** – Department of Science and Technology, Govt. of India
 - [ ] **Pragati Scholarship Scheme for Girls** – AICTE
-- [ ] **Saksham Scholarship Scheme for Specially-Abled Students** – AICTE
-- [ ] **PM Scholarship Scheme for Central Armed Police Forces (CAPF)** – WARB, Govt. of India
-- [ ] **DPI Special Stipend Scheme** – Education Directorate, Govt. of West Bengal
 
 ---
 
@@ -36,7 +33,8 @@
 - [x] **FAEA Scholarship** – Foundation for Academic Excellence and Access
 - [x] **L’Oréal India For Young Women In Science Scholarship** – L’Oréal India
 - [x] **Reliance Foundation Scholarships**
-
+- [x] **JN Tata Endowment for Higher Education**
+- [x] **LIC Golden Jubilee Scholarship**
 
 ---
 

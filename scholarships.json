@@ -24,7 +24,7 @@
         "contact": {
             "helpline": "1800-102-8014",
             "email": "helpdesk.svmcm-wb@gov.in",
-            "faqUrl": "https://svmcm.wbhed.gov.in/page/faq.php"
+            "faqUrl": "https://svmcm.wb.gov.in/page/faq.php"
         },
         "eligibility": {
             "minMarks": 60,
@@ -183,7 +183,7 @@
         "contact": {
             "helpline": "1800-120-2130",
             "email": "mdfc.wb@gmail.com",
-            "faqUrl": "https://wbmdfc.org/"
+            "faqUrl": "https://wbmdfc.org/faq"
         },
         "eligibility": {
             "minMarks": 50,
@@ -337,7 +337,7 @@
         "contact": {
             "helpline": "011-430-92248",
             "email": "hdfcbankecss@buddy4study.com",
-            "faqUrl": "https://www.hdfcbankecss.com/"
+            "faqUrl": "https://www.hdfcbankecss.com/#faq"
         },
         "eligibility": {
             "minMarks": 55,
@@ -860,7 +860,7 @@
         "provider": "Indian Oil Corporation Limited (IOCL)",
         "type": "private",
         "description": "A specialized scholarship initiative by Indian Oil Corporation Limited aimed at nurturing young, talented sportspersons across various recognized sports disciplines by providing monthly financial support to help cover training, equipment, and tournament expenses.",
-        "officialUrl": "https://iocl.com/",
+        "officialUrl": "https://iocl.com/pages/SportsScholarships",
         "lastVerified": "2026-08-19",
         "financial": {
             "text": "₹12,000 - ₹16,000 / month (based on Elite or Scholar category)",
@@ -961,7 +961,7 @@
         "contact": {
             "helpline": "0120-6619540",
             "email": "helpdesk@nsp.gov.in",
-            "faqUrl": "https://scholarships.gov.in/"
+            "faqUrl": "https://scholarships.gov.in/studentFAQs"
         },
         "eligibility": {
             "minMarks": 50,
@@ -1022,36 +1022,37 @@
     },
     {
         "id": 14,
-        "slug": "reliance-foundation-undergraduate-scholarship",
-        "name": "Reliance Foundation Undergraduate Scholarship",
-        "shortName": "RFUG",
-        "provider": "Reliance Foundation",
-        "type": "private",
-        "description": "A prestigious pan-India scholarship initiative supporting meritorious undergraduate students from all academic streams, enabling them to complete their degree programs with financial security, leadership training, and network access.",
-        "officialUrl": "https://www.scholarships.reliancefoundation.org/",
-        "lastVerified": "2026-08-18",
+        "slug": "central-sector-scheme-of-scholarship-for-college-and-university-students",
+        "name": "Central Sector Scheme of Scholarships for College and University Students (PM-USP CSSS)",
+        "shortName": "CSSS / PM-USP CSSS",
+        "provider": "Department of Higher Education, Ministry of Education, Government of India",
+        "type": "government",
+        "description": "A flagship central sector scholarship scheme funded by the Ministry of Education to provide financial assistance to meritorious students from low-income families to meet day-to-day expenses while pursuing undergraduate and postgraduate studies in recognized colleges and universities across India.",
+        "officialUrl": "https://scholarships.gov.in/",
+        "lastVerified": "2026-08-20",
         "financial": {
-            "text": "Up to ₹2,00,000 spread over the duration of the degree course",
-            "maxValue": 200000,
+            "text": "₹12,000 / year for UG (1st to 3rd year) and ₹20,000 / year for PG / professional courses (4th and 5th year)",
+            "maxValue": 20000,
             "frequency": "annual",
             "tuitionCoverage": false
         },
         "dates": {
-            "periodText": "August - October",
-            "startDate": "2026-08-01",
-            "deadlineDate": "2026-10-04",
-            "isTentative": true
+            "periodText": "July - October",
+            "startDate": "2026-07-01",
+            "deadlineDate": "2026-10-31",
+            "isTentative": false
         },
         "contact": {
-            "helpline": "011-4117-1414",
-            "email": "RF.UGScholarships@reliancefoundation.org",
-            "faqUrl": "https://www.scholarships.reliancefoundation.org/"
+            "helpline": "0120-6619540",
+            "email": "helpdesk@nsp.gov.in",
+            "faqUrl": "https://scholarships.gov.in/public/schemeGuidelines/CSSS_GUIDLINES_07022024_updated.pdf"
         },
         "eligibility": {
-            "minMarks": 60,
-            "maxIncome": 1500000,
+            "minMarks": 80,
+            "maxIncome": 450000,
             "educationLevel": [
-                "ug"
+                "ug",
+                "pg"
             ],
             "streams": [
                 "Science",
@@ -1060,15 +1061,16 @@
                 "Professional"
             ],
             "course": [
-                "B.Sc",
                 "B.A",
+                "B.Sc",
                 "B.Com",
                 "B.Tech",
                 "B.E",
                 "MBBS",
-                "BBA",
-                "BCA",
-                "LLB"
+                "M.A",
+                "M.Sc",
+                "M.Com",
+                "Integrated Degree"
             ],
             "gender": "all",
             "category": [
@@ -1081,23 +1083,25 @@
             "applicationMode": "online"
         },
         "documents": [
-            "Class 12 board mark sheet showing minimum 60% aggregate",
-            "Proof of 1st-year enrollment in a full-time undergraduate degree course (Admission Slip / Identity Card)",
-            "Annual Family Income Certificate (Issued by competent authority or Salary Slips/ITR)",
-            "Recent passport-sized photograph",
-            "Government-issued Photo ID Proof (Aadhaar, Voter ID, Passport)"
+            "Class 12 board examination mark sheet showing top 80th percentile score",
+            "Annual Family Income Certificate issued by a competent government authority",
+            "Proof of admission / Fee Receipt for current regular undergraduate degree program",
+            "First page of Bank Passbook displaying Account Number, IFSC, and applicant details",
+            "Government-issued identity proof (Aadhaar Card or alternate photo ID)",
+            "Caste / Disability Certificate (if applicable for quota allocation)"
         ],
         "applicationProcess": [
-            "Visit the official portal: https://www.scholarships.reliancefoundation.org/",
-            "Complete the eligibility questionnaire to verify status.",
-            "Fill out the online application form with personal, academic, and income details.",
-            "Upload mandatory documents in PDF/JPEG format.",
-            "Mandatory online Aptitude Test must be taken within specified dates to complete selection."
+            "Visit the official National Scholarship Portal (NSP): https://scholarships.gov.in/",
+            "Complete One-Time Registration (OTR) using a mobile number and Aadhaar/identity verification.",
+            "Log in to the student dashboard and fill out the detailed application form.",
+            "Select 'Central Sector Scheme of Scholarships for College and University Students' under the Ministry of Education section.",
+            "Upload scanned supporting documents (mark sheet, income certificate, bank details) and submit the application."
         ],
         "importantNotes": [
-            "Open to students enrolled in the 1st year of any full-time undergraduate degree program.",
-            "Family income up to ₹15 Lakhs per annum is eligible, with preference given to applicants with income under ₹2.5 Lakhs.",
-            "Selection involves academic performance, income evaluation, and a compulsory 60-minute online aptitude test."
+            "Applicants must fall above the 80th percentile threshold of successful candidates in their respective Class 12 board examination.",
+            "Only regular (full-time) students enrolled in courses recognized by AICTE, UGC, or respective regulatory bodies are eligible; distance/correspondence learning is excluded.",
+            "Annual parental income ceiling is ₹4.5 Lakhs per annum.",
+            "50% of total scholarship slots are reserved for female applicants."
         ]
     },
     {
@@ -1744,6 +1748,174 @@
             "Strictly restricted to students entering 1st year of full-time undergraduate degree courses after clearing HSC/Class 12.",
             "Requires a minimum aggregate of 85% in Class 12 board examinations.",
             "Applications are accepted via physical postal submission only; digital or email submissions are not accepted."
+        ]
+    },
+    {
+        "id": 23,
+        "slug": "jn-tata-endowment-loan-scholarship",
+        "name": "JN Tata Endowment for Higher Education",
+        "shortName": "JN Tata Endowment",
+        "provider": "JN Tata Endowment (Tata Trusts)",
+        "type": "private",
+        "description": "A world-renowned merit-based loan scholarship scheme established in 1892, supporting Indian students pursuing higher education abroad for Master's, Ph.D., or Post-Doctoral studies across all academic disciplines.",
+        "officialUrl": "https://www.jntataendowment.org/",
+        "lastVerified": "2026-08-20",
+        "financial": {
+            "text": "Up to ₹10,000,000 - ₹20,000,000 loan scholarship (at 2% simple interest per annum, repayable between 3rd and 7th year)",
+            "maxValue": 2000000,
+            "frequency": "one-time",
+            "tuitionCoverage": false
+        },
+        "dates": {
+            "periodText": "January - March",
+            "startDate": "2026-01-05",
+            "deadlineDate": "2026-03-29",
+            "isTentative": false
+        },
+        "contact": {
+            "helpline": "022-6665-8282",
+            "email": "jnteapplication@tatatrusts.org",
+            "faqUrl": "https://www.jntataendowment.org/faq"
+        },
+        "eligibility": {
+            "minMarks": 60,
+            "maxIncome": null,
+            "educationLevel": [
+                "pg",
+                "phd"
+            ],
+            "streams": [
+                "Science",
+                "Arts",
+                "Commerce",
+                "Professional"
+            ],
+            "course": [
+                "M.Sc",
+                "M.A",
+                "M.Com",
+                "M.Tech",
+                "MS",
+                "LLM",
+                "MBA",
+                "PhD",
+                "Post-Doctoral"
+            ],
+            "gender": "all",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "All India",
+            "applicationMode": "online"
+        },
+        "documents": [
+            "Bachelor's degree mark sheets / transcripts showing minimum 60% aggregate score",
+            "Official Statement of Purpose (SOP) limited to 800 words",
+            "Valid Indian Passport (first and last page scan)",
+            "Government-issued ID Proof (Masked Photo ID)",
+            "Offer/Admission letter from a recognized overseas university (required prior to interview)",
+            "Guarantor details and financial documentation"
+        ],
+        "applicationProcess": [
+            "Access the online portal at https://www.jntataendowment.org/ during the application window.",
+            "Complete the initial registration and fill out detailed personal, academic, and proposed study details.",
+            "Upload the mandatory 800-word SOP, mark sheets, and passport documents.",
+            "Shortlisted candidates undergo an online Aptitude Test evaluating analytical and verbal reasoning skills.",
+            "Qualified candidates participate in an online technical/subject-expert interview round."
+        ],
+        "importantNotes": [
+            "Applicants must not be older than 45 years of age as of June 30 of the award year.",
+            "This is a loan scholarship carrying a nominal 2% simple interest rate per annum, repayable in equal installments between years 3 and 7.",
+            "Exclusively meant for higher education overseas; undergraduate programs and distance education within India are ineligible."
+        ]
+    },
+    {
+        "id": 24,
+        "slug": "lic-golden-jubilee-scholarship",
+        "name": "LIC Golden Jubilee Scholarship",
+        "shortName": "LIC Scholarship",
+        "provider": "LIC Golden Jubilee Foundation (Life Insurance Corporation of India)",
+        "type": "private",
+        "description": "A national CSR scholarship scheme initiated by LIC to support meritorious students from economically weaker sections pursuing higher secondary, vocational, diploma, undergraduate, or professional degree courses across India.",
+        "officialUrl": "https://licindia.in/",
+        "lastVerified": "2026-08-20",
+        "financial": {
+            "text": "₹10,000 - ₹40,000 / year (varies by course: ₹20,000/yr for General UG, ₹40,000/yr for Medical, ₹30,000/yr for Engineering)",
+            "maxValue": 40000,
+            "frequency": "annual",
+            "tuitionCoverage": false
+        },
+        "dates": {
+            "periodText": "August - November",
+            "startDate": "2026-08-01",
+            "deadlineDate": "2026-11-30",
+            "isTentative": false
+        },
+        "contact": {
+            "helpline": "022-6827-6827",
+            "email": "co_gjf@licindia.com",
+            "faqUrl": "https://licindia.in/web/guest/golden-jubilee-foundation"
+        },
+        "eligibility": {
+            "minMarks": 60,
+            "maxIncome": 250000,
+            "educationLevel": [
+                "school",
+                "ug",
+                "vocational"
+            ],
+            "streams": [
+                "Science",
+                "Arts",
+                "Commerce",
+                "Professional"
+            ],
+            "course": [
+                "Class XI-XII",
+                "B.A",
+                "B.Sc",
+                "B.Com",
+                "B.Tech",
+                "B.E",
+                "MBBS",
+                "BAMS",
+                "BHMS",
+                "BDS",
+                "Diploma",
+                "ITI"
+            ],
+            "gender": "all",
+            "category": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+            ],
+            "domicile": "All India",
+            "applicationMode": "online"
+        },
+        "documents": [
+            "Class 10 or Class 12 board examination mark sheet showing minimum 60% marks",
+            "Proof of admission in 1st year of the current academic course/institution",
+            "Family Income Certificate issued by competent government authority (Tehsildar/BDO/Gazetted Officer)",
+            "First page of applicant's Bank Passbook displaying Account Number and IFSC Code",
+            "Aadhaar Card or valid Government Photo ID Proof",
+            "Caste / Disability Certificate (if applicable)"
+        ],
+        "applicationProcess": [
+            "Visit the official LIC portal at https://licindia.in/ and click on 'LIC Golden Jubilee Scholarship Application'.",
+            "Select your respective LIC Divisional Office based on your current institutional location.",
+            "Fill out personal, household income, 10th/12th board marks, and current admission details.",
+            "Submit the online form and save the system-generated Application Number.",
+            "Physical document verification is conducted by the divisional office for shortlisted candidates."
+        ],
+        "importantNotes": [
+            "Standard annual family income ceiling is ₹2,50,000 (relaxed up to ₹4,00,000 if a single/widowed mother is the sole earner).",
+            "Includes a 'Special Girl Child Scholar' sub-category offering ₹10,000/year for 10+2/intermediate/diploma studies.",
+            "Students pursuing courses through distance education, correspondence, or private/evening colleges are strictly ineligible."
         ]
     }
 ]
